@@ -1,5 +1,7 @@
-# 👋 Hi there, I'm [Your Name]
-
+# 👋 Hi there, I'm Moses Maina
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/CamlineKe?v=4" width="150" style="border-radius:50%">
+</div>
 **`MERN Stack Developer`**
 
 Building fast, scalable web applications with Next.js & TypeScript.
