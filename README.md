@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Moses Maina
 
-<!--
-**CamlineKe/CamlineKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Fullstack Software Engineer`**
 
-Here are some ideas to get you started:
+I'm a developer passionate about building [mention your focus, e.g., web applications, tools, etc.]. My current focus is on **[MERN, Next.js]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+## 📊 GitHub Stats
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/yourhandle)
+
+---
+⭐ *Check out my repositories below!*
