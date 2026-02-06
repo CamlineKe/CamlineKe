@@ -1,5 +1,3 @@
-
-![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 ## Bio
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Moses+;Full-stack+Developer;Loves+Next.js+;Building+intuitive+things+with+TS&left=true&width=500&height=50)
 
