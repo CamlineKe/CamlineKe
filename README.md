@@ -128,8 +128,8 @@
 ## Tools and Frameworks I Use
 | Domain         | Tools & Frameworks                      |
 |----------------|-----------------------------------------|
-| Frontend     | React, React Native, Tailwind |
-| Backend      | Node.js, Express, NestJS, MongoDB       |
+| Frontend     | React, Next.js, Tailwind, ShadcnUI |
+| Backend      | Node.js, Express, NestJS, MongoDB, PostgreSQL      |
 | Mobile Dev   | React Native, Expo                      |
 | DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
 
@@ -137,14 +137,14 @@
 ##  2026 Goals
 
 - [ ] Learn Golang
-- [ ] Build CribFinder
-- [ ] Master Frontend Completely
-- [ ] Learn on how to use AWS, Panels & Digital Ocean
+- [ ] Build Kampus Loan
+- [ ] Master Fullstack in full
+- [ ] Learn on how to use AWS, Azure & Digital Ocean
 
 ##  2025 Goals
 
-- [✓] Build and deploy a mobile safety app
-- [✓] Learn Compiler Construction
+- [✓] Build and deploy scalable web apps
+- [✓] Learn how the system works
 - [✓] Launch a SaaS side project
 - [✓] Contribute to an open-source project
 
@@ -155,10 +155,9 @@
 
 ##  Did You Know?
 -  I’m from Kenya 🇰🇪
-- I enjoy FIFA and PES
--  I support Manchester United
+- I enjoy FIFA and eFootball
+-  I support Manchester City
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CamlineKe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
