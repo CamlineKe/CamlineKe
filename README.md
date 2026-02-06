@@ -4,7 +4,7 @@
 #  About Me:
 ##  Hey there, I'm Moses | Camlinedev,
  Fullstack Developer with  knowledge in DevOps | Passionate about building impactful software <br>
- I’m currently working on the **A couple of projects including an Kampus Loan Application**  <br>
+ I’m currently working on the **A couple of projects including a Kampus Loan Application**  <br>
  Ask me about **UI/UX design**, **Typescript**,**Next.js** or **Node.js**<br>
  Fun fact: Tech evolves at the speed of code execution <br>
  Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
