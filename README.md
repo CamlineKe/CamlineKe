@@ -14,13 +14,13 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" title="LinkedIn">
+  <a href="https://linkedin.com/in/moses-ongware" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" title="Portfolio">
+  <a href="https://camlineportfolio.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-%230d9488.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" title="Email">
+  <a href="mailto:cmosesmaina01@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![Kampus Loan](https://img.shields.io/badge/%F0%9F%8F%A6%20Kampus%20Loan-0d9488?style=for-the-badge&logoColor=white&labelColor=1e293b)](https://github.com/yourusername/kampus-loan)
+[![Kampus Loan](https://img.shields.io/badge/%F0%9F%8F%A6%20Kampus%20Loan-0d9488?style=for-the-badge&logoColor=white&labelColor=1e293b)](https://github.com/CamlineKe/kampus-loan)
 
 </div>
 
@@ -147,7 +147,7 @@
 - Designed for clarity and enterprise performance
 
 <p align="right">
-  <a href="https://cortex.com">
+  <a href="https://taskflow-zeta-dusky.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -165,6 +165,12 @@
 - **Personalized recommendations** based on activity patterns
 - Built with **React + Node.js**
 
+<p align="right">
+  <a href="https://fitness-app-dusky-six.vercel.app//">
+    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -174,15 +180,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamlineKe&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact" />
     </td>
   </tr>
 </table>
@@ -204,10 +210,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/moses-ongware">
     <img src="https://img.shields.io/badge/Hire%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:cmosesmaina@gmail.com">
     <img src="https://img.shields.io/badge/Discuss%20an%20idea-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
