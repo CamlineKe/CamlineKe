@@ -1,135 +1,135 @@
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=32&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Moses+Maina;Full-stack+Engineer;AI-Focused+Builder;I+ship+production+systems" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Moses%20Maina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Engineer%20|%20AI-Focused%20Builder&descAlignY=55&descSize=18" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;strong&gt;Full-stack Engineer | AI-Focused Builder&lt;/strong&gt;
-&lt;/p&gt;
+<!-- Dynamic Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20secure%20products%20end-to-end;AI-assisted%20workflows%20%26%20performance;Turning%20ideas%20into%20production%20systems&center=true&width=600&height=50&color=0d9488&font=Inter&pause=1000" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;em&gt;I build secure, high-performance web products end-to-end — from idea to production — with a strong focus on &lt;strong&gt;AI-assisted workflows&lt;/strong&gt;, &lt;strong&gt;performance&lt;/strong&gt;, and &lt;strong&gt;real-world impact&lt;/strong&gt;.&lt;/em&gt;
-&lt;/p&gt;
+<p align="center">
+  <em>Mid-level engineer shipping real-world impact through clean systems and intelligent automation</em>
+</p>
 
-&lt;div align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/AI-Augmented-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" /&gt;
-&lt;/div&gt;
+<!-- Socials -->
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%230d9488.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## What I Do
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="50%"&gt;
+<table>
+<tr>
+<td width="50%">
 
-**Engineering**
-- Full-stack web applications with **Next.js, TypeScript, and Node.js**
-- Production-ready systems with auth, payments, and access control
-- Performance optimization for real-world scale
+**Product Engineering**
+- Full-stack applications **end-to-end**
+- **Performance & optimization** for real users
+- **Security, auth & access control** by design
 
-&lt;/td&gt;
-&lt;td width="50%"&gt;
+</td>
+<td width="50%">
 
 **AI Integration**
-- AI as a **productivity and decision-making multiplier**
-- Prompt engineering and workflow automation
-- Turning vague ideas into structured, scalable solutions
+- **AI-assisted workflows** that multiply productivity
+- **Prompt engineering** for decision-making
+- Turning complexity into **clean, scalable systems**
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
-&gt; *I care equally about **product impact** and **technical depth** — good systems should do both.*
+> *I care equally about **product impact** and **technical depth** — good systems do both.*
 
 ---
 
-## Current Focus
+## Now Building
 
-&lt;div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #0d9488;"&gt;
+<div align="center">
 
-### Building [Kampus Loan](https://github.com/yourusername/kampus-loan)
-A fintech platform helping students access quick loans with minimal collateral.
+[![Kampus Loan](https://img.shields.io/badge/%F0%9F%8F%A6%20Kampus%20Loan-0d9488?style=for-the-badge&logoColor=white&labelColor=1e293b)](https://github.com/yourusername/kampus-loan)
 
-**Priorities:** Usability • Security • Trust
+</div>
 
-&lt;/div&gt;
+<p align="center">
+  <strong>Fintech platform helping students access quick loans with minimal collateral</strong><br>
+  <em>Next.js • TypeScript • M-Pesa Integration • Security-first architecture</em>
+</p>
 
-&lt;br/&gt;
+**Priorities:** User-friendly design • Trust & security • Real-world financial impact
 
-**Deepening expertise in:**
-- AI-assisted development
-- System design
-- Performance optimization
+---
 
-**Actively open to:**
-- Internships
-- Freelance work  
-- Collaborations
-- Early-stage startup opportunities
+**Also seeking:**
+- Internship opportunities
+- Freelance collaborations  
+- Early-stage startup ventures
 
 ---
 
 ## Engineering Philosophy
 
-&lt;div align="center"&gt;
+<div align="center">
 
-| Principle | Manifesto |
-|:----------|:----------|
-| **Plan first** | Code second |
-| **AI as multiplier** | Not a replacement |
-| **Simple &gt; Clever** | Systems that age well |
-| **Security first** | Non-negotiable correctness |
+| Principle | Stance |
+|:----------|:-------|
+| Plan first, code second | Agree |
+| AI is a multiplier, not a replacement | Agree |
+| Simple systems beat clever ones | Agree |
+| Security and correctness are non-negotiable | Agree |
+| *Better to build small with real impact than massive without* | **Core belief** |
 
-&lt;/div&gt;
-
-&gt; *Better to build something small with real impact than something massive nobody uses.*
+</div>
 
 ---
 
 ## Tech Stack
 
-&lt;details&gt;
-&lt;summary&gt;&lt;strong&gt;Frontend&lt;/strong&gt;&lt;/summary&gt;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,mongodb,tailwind,git,github" />
+  </a>
+</p>
 
-- Next.js (App Router)
-- React
-- TypeScript
-- Tailwind CSS / Shadcn UI
-- TanStack Query
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,express,vite,figma" />
+  </a>
+</p>
 
-&lt;/details&gt;
+**Core Arsenal:**
 
-&lt;details&gt;
-&lt;summary&gt;&lt;strong&gt;Backend&lt;/strong&gt;&lt;/summary&gt;
-
-- Node.js
-- MongoDB
-- Authentication (NextAuth, JWT)
-- Secure API design & access control
-
-&lt;/details&gt;
-
-&lt;details&gt;
-&lt;summary&gt;&lt;strong&gt;Payments & Integrations&lt;/strong&gt;&lt;/summary&gt;
-
-- M-Pesa integrations
-- Payment gateway architecture
-
-&lt;/details&gt;
-
-&lt;details&gt;
-&lt;summary&gt;&lt;strong&gt;AI & Tooling&lt;/strong&gt;&lt;/summary&gt;
-
-- OpenAI APIs
-- Prompt engineering
-- AI-augmented development workflows
-
-&lt;/details&gt;
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Shadcn%20UI-black?style=for-the-badge&logo=shadcnui&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=nextauth&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -137,65 +137,95 @@ A fintech platform helping students access quick loans with minimal collateral.
 
 ### Cortex — Project Management Platform
 
-&lt;div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; margin: 12px 0;"&gt;
+<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
-**Advanced project management system** focused on team collaboration, task tokenization, and analytics.
+**Enterprise-grade collaboration platform** with task tokenization, team workflows, and analytics.
 
-- Built with **Next.js + TypeScript**
-- Designed for scalability and enterprise-level performance
-- Emphasis on structured workflows and clarity
+- Built with **Next.js + TypeScript** for scale
+- Task tokenization system for structured workflows
+- Real-time collaboration features
+- Designed for clarity and enterprise performance
 
-&lt;p align="right"&gt;
-  &lt;a href="https://cortex.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Live_Demo-0d9488?style=flat-square&logo=vercel&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="right">
+  <a href="https://cortex.com">
+    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-&lt;/div&gt;
+</div>
 
 ### Fitness Tracker
 
-&lt;div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; margin: 12px 0;"&gt;
+<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0;">
 
-A full-stack fitness tracking application promoting healthier lifestyles through data-driven insights.
+**Full-stack health platform** promoting data-driven wellness through intelligent tracking.
 
-- Workout logging and progress tracking
-- Social sharing features
-- Personalized recommendations based on user activity
-- Built with **React and Node.js**
+- Workout logging with **progress visualization**
+- **Social sharing** and community features
+- **Personalized recommendations** based on activity patterns
+- Built with **React + Node.js**
 
-&lt;/div&gt;
+</div>
 
 ---
 
-## Experience
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Credibility
 
 - Computer Science Graduate
-- Freelance experience shipping production systems
-- Built and maintained **systems used by real users**
+- Freelance experience shipping **production systems used by real users**
+- Built and maintained **secure, high-performance applications**
 
 ---
 
-## Let's Connect
+## Let's Build Something
 
-&lt;p align="center"&gt;
-  &lt;a href="https://yourportfolio.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/yourusername"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:youremail@example.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <strong>Open for:</strong> Full-time roles • Freelance work • Collaborations • Startup ideas
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/Hire%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Discuss%20an%20idea-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;em&gt;I enjoy breaking complex systems into simple parts. I like teaching what I learn. I care deeply about clean abstractions and long-term maintainability.&lt;/em&gt;
-&lt;/p&gt;
+## Beyond Code
 
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer" /&gt;
-&lt;/p&gt;
+- I enjoy **breaking complex systems into simple parts**
+- I like **teaching what I learn**
+- I care deeply about **clean abstractions and long-term maintainability**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0d9488&style=flat-square" alt="Profile views" />
+</p>
