@@ -33,7 +33,7 @@ I'm a systems-driven full-stack engineer working primarily with the MERN stack, 
 
 My workflow emphasizes problem decomposition, root-cause analysis, and feature-based architecture. This approach helps me debug efficiently, reason about complex systems, and produce code that remains maintainable as projects grow.
 
-AI plays a key role in how I work. I use it to challenge assumptions, validate designs, refine requirements, and prototype thoughtfully — treating it as a thinking partner rather than a replacement for engineering judgment.
+AI plays a key role in how I work. I use it to challenge assumptions, validate designs, refine requirements, and prototype thoughtfully - treating it as a thinking partner rather than a replacement for engineering judgment.
 
 I'm interested in projects and teams that value system design, long-term scalability, and deliberate engineering over rushed solutions.
 
