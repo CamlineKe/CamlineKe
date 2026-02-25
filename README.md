@@ -110,13 +110,19 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,mongodb,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,postgres,mongodb,prisma" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,express,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,flutter,docker,git,github,vercel,vite" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,python,javascript,figma,redux,nginx,redis" />
   </a>
 </p>
 
