@@ -126,10 +126,6 @@ I'm interested in projects and teams that value system design, long-term scalabi
   </a>
 </p>
 
-<p align="center">
-  <b>Additional Technologies:</b> Meta WhatsApp API, Shadcn/ui, Render, Axios, JWT, PostgreSQL, REST APIs
-</p>
-
 ## Breakdown:
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Material-UI, Shadcn/ui, Vite, Flutter
 - **Backend:** Node.js, Express, FastAPI, Python, JavaScript
@@ -158,6 +154,18 @@ I'm interested in projects and teams that value system design, long-term scalabi
     <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Meta%20API-0668E1?style=for-the-badge&logo=meta&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
