@@ -126,6 +126,18 @@ I'm interested in projects and teams that value system design, long-term scalabi
   </a>
 </p>
 
+<p align="center">
+  <b>Additional Technologies:</b> Meta WhatsApp API, Shadcn/ui, Render, Axios, JWT, PostgreSQL, REST APIs
+</p>
+
+## Breakdown:
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Material-UI, Shadcn/ui, Vite, Flutter
+- **Backend:** Node.js, Express, FastAPI, Python, JavaScript
+- **Database:** PostgreSQL, MongoDB, Prisma, Redis
+- **DevOps:** Docker, Git, GitHub, Vercel, Render, Nginx
+- **Authentication:** JWT, Meta WhatsApp API
+- **Styling & Design:** Tailwind, Material-UI, Figma
+
 **Core Arsenal:**
 
 <table>
