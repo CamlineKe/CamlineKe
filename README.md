@@ -70,16 +70,16 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <div align="center">
 
-[![Kampus Loan](https://img.shields.io/badge/%F0%9F%8F%A6%20Kampus%20Loan-0d9488?style=for-the-badge&logoColor=white&labelColor=1e293b)](https://github.com/CamlineKe/kampus-loan)
+[![WhatsApp Product Verification](https://img.shields.io/badge/%F0%9F%93%B1%20WhatsApp%20Product%20Verification-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e293b)](https://github.com/CamlineKe/whatsapp-product-verification)
 
 </div>
 
 <p align="center">
-  <strong>Fintech platform helping students access quick loans with minimal collateral</strong><br>
-  <em>Next.js • TypeScript • M-Pesa Integration • Security-first architecture</em>
+  <strong>Enterprise system helping brands fight counterfeiting via WhatsApp verification</strong><br>
+  <em>React • Node.js • PostgreSQL • Meta WhatsApp API • QR Generation • Row-level locking</em>
 </p>
 
-**Priorities:** User-friendly design • Trust & security • Real-world financial impact
+**Priorities:** Security-first • Sub-2 second response • Scale to millions • Real-time fraud detection
 
 ---
 
