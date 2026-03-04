@@ -177,16 +177,21 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 ## Featured Projects
 
-### TaskFLow — Project Management Platform
+### TaskFlow — Project Management Platform
 
 <div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
-**Enterprise-grade collaboration platform** with task tokenization, team workflows, and analytics.
+**Enterprise-grade collaboration platform** combining intuitive task management with robust team workflows and real-time analytics.
 
-- Built with **Next.js + TypeScript** for scale
-- Task tokenization system for structured workflows
-- Real-time collaboration features
-- Designed for clarity and enterprise performance
+- **Secure JWT-based authentication** with email verification and password recovery for enterprise-grade security
+- **Dynamic project management** allowing users to create, customize, and monitor projects with team access controls
+- **Interactive Kanban workflow** with drag-and-drop task management across customizable columns (To Do, In Progress, Done)
+- **Comprehensive task tracking** including priority levels, due dates, team assignments, and completion monitoring
+- **Real-time collaboration features** with instant updates on task assignments and project progress
+- **Analytics dashboard** displaying project overviews, recent activity feeds, and visual progress indicators
+- Built for scale and performance with **Next.js + TypeScript**
+
+</div>
 
 <p align="right">
   <a href="https://taskflow-zeta-dusky.vercel.app/">
