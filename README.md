@@ -110,29 +110,26 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,postgres,mongodb,prisma" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres,tailwind,docker,git" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,flutter,docker,git,github,vercel,vite" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,python,javascript,figma,redux,nginx,redis" />
+    <img src="https://skillicons.dev/icons?i=github,vite,figma,jest,redis,nginx,vercel" />
   </a>
 </p>
 
 ## Breakdown:
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Material-UI, Shadcn/ui, Vite, Flutter
-- **Backend:** Node.js, Express, FastAPI, Python, JavaScript
-- **Database:** PostgreSQL, MongoDB, Prisma, Redis
-- **DevOps:** Docker, Git, GitHub, Vercel, Render, Nginx
-- **Authentication:** JWT, Meta WhatsApp API
-- **Styling & Design:** Tailwind, Material-UI, Figma
+- **Frontend:** React 19, TypeScript, Tailwind CSS 4, Vite, Lucide React, Recharts, React Router DOM 7, React Hook Form
+- **Backend:** Node.js, Express 4, TypeScript, JWT, Bcrypt, Zod 3, Axios, Winston
+- **Database:** PostgreSQL 14+, node-pg, Row-level locking (SELECT FOR UPDATE), Connection pooling
+- **Testing:** Jest 29, Supertest, k6 (load testing), React Testing Library
+- **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, Input sanitization, XSS prevention
+- **QR & Utilities:** QRCode, UUID, CSV Parser, Fast-CSV 5, Dotenv 16
+- **WhatsApp Integration:** Meta Cloud API v18, Webhooks, E.164 phone validation, Rate limiting (10/hour)
+- **DevOps:** Docker, Git, GitHub, Render, Nginx
+- **Authentication:** JWT tokens, Role-based access (admin), Secure password hashing
 
 **Core Arsenal:**
 
