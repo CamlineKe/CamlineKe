@@ -129,16 +129,15 @@ I'm interested in projects and teams that value system design, long-term scalabi
 ## Breakdown:
 - **Frontend:** Next.js, React 19, TypeScript, Tailwind CSS 4, Material-UI, Shadcn/ui, Vite, Flutter, Lucide React, Recharts, React Router DOM 7, React Hook Form
 - **Backend:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, JWT, Bcrypt, Zod 3, Axios, Winston
-- **Database:** PostgreSQL 14+, MongoDB, Prisma, Redis, node-pg, Row-level locking (SELECT FOR UPDATE), Connection pooling
-- **Testing:** Jest 29, Supertest, k6 (load testing), React Testing Library
+- **Database:** PostgreSQL 14+, MongoDB, Prisma, Redis, node-pg (Row-level locking with SELECT FOR UPDATE), Connection pooling
+- **Testing:** Jest 29, Supertest, k6 (Load Testing), React Testing Library
 - **DevOps:** Docker, Git, GitHub, Vercel, Render, Nginx
-- **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, Input sanitization, XSS prevention, JWT, Meta WhatsApp API
+- **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 Validation, Input Sanitization, XSS Prevention, Meta WhatsApp API
 - **QR & Utilities:** QRCode, UUID, CSV Parser, Fast-CSV 5, Dotenv 16
-- **WhatsApp Integration:** Meta Cloud API v18, Webhooks, E.164 phone validation, Rate limiting (10/hour)
-- **Authentication:** JWT tokens, Role-based access (admin), Secure password hashing, Bcrypt
-- **Styling & Design:** Tailwind, Material-UI, Figma, Lucide React, Recharts
-- **Additional Tools:** Axios, Winston Logging, Zod Validation, UUID, CSV Processing
-
+- **WhatsApp Integration:** Meta Cloud API v18, Webhooks, E.164 Phone Validation, Rate Limiting (10/hour)
+- **Authentication:** JWT Tokens, Role-Based Access (Admin), Bcrypt Password Hashing
+- **Styling & Design:** Tailwind CSS, Material-UI, Figma, Lucide React, Recharts
+- **Additional Tools:** Axios (HTTP Client), Winston (Logging), Zod (Schema Validation), UUID (Unique IDs), CSV Processing
 **Core Arsenal:**
 
 <table>
