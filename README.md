@@ -177,7 +177,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 ## Featured Projects
 
-### Cortex — Project Management Platform
+### TaskFLow — Project Management Platform
 
 <div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
@@ -200,12 +200,16 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0;">
 
-**Full-stack health platform** promoting data-driven wellness through intelligent tracking.
+**Personalized wellness platform** combining intelligent tracking with adaptive recommendations for holistic health management.
 
-- Workout logging with **progress visualization**
-- **Social sharing** and community features
-- **Personalized recommendations** based on activity patterns
-- Built with **React + Node.js**
+- **Multi-metric health tracking** including workouts, meals, and mood patterns for comprehensive wellness insights
+- **Smartwatch integration** for automatic calorie tracking and workout logging during exercise sessions
+- **Age-adaptive recommendation engine** built with **Flask** that analyzes user input to deliver personalized fitness and nutrition guidance
+- **Interactive dashboards** with **progress visualization** to monitor health trends over time
+- **Social wellness community** for sharing achievements and participating in friendly challenges
+- Full-stack implementation with **React + Node.js**
+
+</div>
 
 <p align="right">
   <a href="https://fitness-app-dusky-six.vercel.app//">
