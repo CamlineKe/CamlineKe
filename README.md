@@ -110,26 +110,34 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres,tailwind,docker,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,postgres,mongodb,prisma" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vite,figma,jest,redis,nginx,vercel" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,flutter,docker,git,github,vercel,vite" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,python,javascript,figma,redux,nginx,redis" />
   </a>
 </p>
 
 ## Breakdown:
-- **Frontend:** React 19, TypeScript, Tailwind CSS 4, Vite, Lucide React, Recharts, React Router DOM 7, React Hook Form
-- **Backend:** Node.js, Express 4, TypeScript, JWT, Bcrypt, Zod 3, Axios, Winston
-- **Database:** PostgreSQL 14+, node-pg, Row-level locking (SELECT FOR UPDATE), Connection pooling
+- **Frontend:** Next.js, React 19, TypeScript, Tailwind CSS 4, Material-UI, Shadcn/ui, Vite, Flutter, Lucide React, Recharts, React Router DOM 7, React Hook Form
+- **Backend:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, JWT, Bcrypt, Zod 3, Axios, Winston
+- **Database:** PostgreSQL 14+, MongoDB, Prisma, Redis, node-pg, Row-level locking (SELECT FOR UPDATE), Connection pooling
 - **Testing:** Jest 29, Supertest, k6 (load testing), React Testing Library
-- **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, Input sanitization, XSS prevention
+- **DevOps:** Docker, Git, GitHub, Vercel, Render, Nginx
+- **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, Input sanitization, XSS prevention, JWT, Meta WhatsApp API
 - **QR & Utilities:** QRCode, UUID, CSV Parser, Fast-CSV 5, Dotenv 16
 - **WhatsApp Integration:** Meta Cloud API v18, Webhooks, E.164 phone validation, Rate limiting (10/hour)
-- **DevOps:** Docker, Git, GitHub, Render, Nginx
-- **Authentication:** JWT tokens, Role-based access (admin), Secure password hashing
+- **Authentication:** JWT tokens, Role-based access (admin), Secure password hashing, Bcrypt
+- **Styling & Design:** Tailwind, Material-UI, Figma, Lucide React, Recharts
+- **Additional Tools:** Axios, Winston Logging, Zod Validation, UUID, CSV Processing
 
 **Core Arsenal:**
 
