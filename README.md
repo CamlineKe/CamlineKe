@@ -129,7 +129,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 ## Breakdown:
 - **Frontend:** Next.js, React 19, TypeScript, Tailwind CSS 4, Material-UI, Shadcn/ui, Vite, Flutter, Lucide React, Recharts, React Router DOM 7, React Hook Form
 - **Backend:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, JWT, Bcrypt, Zod 3, Axios, Winston
-- **Database:** PostgreSQL 14+, MongoDB, Prisma, Redis, node-pg (Row-level locking with SELECT FOR UPDATE), Connection pooling
+- **Database:** PostgreSQL 14+, MongoDB, Prisma, Redis(Upstash), node-pg (Row-level locking with SELECT FOR UPDATE), Connection pooling
 - **Testing:** Jest 29, Supertest, k6 (Load Testing), React Testing Library
 - **DevOps:** Docker, Git, GitHub, Vercel, Render, Nginx
 - **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 Validation, Input Sanitization, XSS Prevention, Meta WhatsApp API
