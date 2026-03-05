@@ -138,8 +138,8 @@ I'm interested in projects and teams that value system design, long-term scalabi
 - **Authentication:** JWT Tokens, Role-Based Access (Admin), Bcrypt Password Hashing
 - **Styling & Design:** Tailwind CSS, Material-UI, Figma, Lucide React, Recharts
 - **Additional Tools:** Axios (HTTP Client), Winston (Logging), Zod (Schema Validation), UUID (Unique IDs), CSV Processing
+  
 **Core Arsenal:**
-
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></td>
