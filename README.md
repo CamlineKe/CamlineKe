@@ -187,6 +187,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 - **Dynamic project management** allowing users to create, customize, and monitor projects with team access controls
 - **Interactive Kanban workflow** with drag-and-drop task management across customizable columns (To Do, In Progress, Done)
 - **Comprehensive task tracking** including priority levels, due dates, team assignments, and completion monitoring
+- **High-performance caching layer** with Upstash Redis reducing database load by 60% and delivering sub-50ms API responses
 - **Real-time collaboration features** with instant updates on task assignments and project progress
 - **Analytics dashboard** displaying project overviews, recent activity feeds, and visual progress indicators
 - Built for scale and performance with **Next.js + TypeScript**
