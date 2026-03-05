@@ -202,18 +202,21 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 </div>
 
-### Fitness Tracker
+### Fitness Tracker — Personalized Wellness Platform
 
-<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0;">
+<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
 **Personalized wellness platform** combining intelligent tracking with adaptive recommendations for holistic health management.
 
+- **Secure JWT-based authentication** with profile management and password encryption for user data protection
 - **Multi-metric health tracking** including workouts, meals, and mood patterns for comprehensive wellness insights
-- **Smartwatch integration** for automatic calorie tracking and workout logging during exercise sessions
-- **Age-adaptive recommendation engine** built with **Flask** that analyzes user input to deliver personalized fitness and nutrition guidance
-- **Interactive dashboards** with **progress visualization** to monitor health trends over time
-- **Social wellness community** for sharing achievements and participating in friendly challenges
-- Full-stack implementation with **React + Node.js**
+- **Smartwatch integration** (Google Fit & Fitbit) for automatic calorie tracking and workout logging during exercise sessions
+- **Age-adaptive ML recommendation engine** built with **Flask + scikit-learn** that analyzes user patterns to deliver personalized fitness, nutrition, and stress management guidance with confidence scoring
+- **Real-time gamification system** with points, streaks, achievements, and level progression to maintain user engagement
+- **Interactive dashboards** with Chart.js and ApexCharts for progress visualization and health trend monitoring over time
+- **Socket.IO-powered live updates** for instant feedback on achievements and gamification events
+- **Comprehensive Kenyan cuisine database** with 100+ meals for accurate nutrition tracking
+- Built for performance and scale with **React + Node.js + MongoDB**
 
 </div>
 
