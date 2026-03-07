@@ -232,21 +232,14 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamlineKe&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamlineKe&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact" width="400"/>
+</div>
 
 ---
 
