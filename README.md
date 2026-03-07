@@ -235,15 +235,15 @@ I'm interested in projects and teams that value system design, long-term scalabi
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488&cache_seconds=1800" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&cache_seconds=1800" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamlineKe&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamlineKe&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact&cache_seconds=1800" />
     </td>
   </tr>
 </table>
