@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/moses-ongware" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://camlineportfolio.vercel.app/" title="Portfolio">
+  <a href="https://moses-maina-portfolio.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-%230d9488.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:cmosesmaina01@gmail.com" title="Email">
