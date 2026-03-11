@@ -20,7 +20,7 @@
   <a href="https://moses-maina-portfolio.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-%230d9488.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:cmosesmaina01@gmail.com" title="Email">
+  <a href="mailto:cmosesmaina@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
