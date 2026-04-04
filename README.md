@@ -178,50 +178,40 @@ I'm interested in projects and teams that value system design, long-term scalabi
 ## Featured Projects
 ### WhatsApp Product Verification — Anti-Counterfeiting Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-14+-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Response_Time-24ms_p95-success?style=flat" />
-  <img src="https://img.shields.io/badge/Load_Tested-200_users-blue?style=flat" />
-</p>
+<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
-**Enterprise-grade anti-counterfeiting platform** enabling instant product authenticity verification via WhatsApp. Brands protect millions of products with cryptographically secure codes, real-time fraud detection, and sub-25ms response times.
+**Enterprise-grade anti-counterfeiting platform** processing millions of product verifications via WhatsApp with sub-24ms response times and zero failed requests under peak load.
 
----
+**Database Architecture**
+- PostgreSQL row-level locking (`SELECT FOR UPDATE`) preventing race conditions and duplicate activations across concurrent verification requests
+- Strategic indexing (batch_no, status, created_at, verified_at) achieving O(log n) query complexity
+- Optimized connection pooling (50 concurrent) with prepared statement caching for sustained high-throughput
 
-### 🔐 Security Architecture
+**Security Implementation**
+- HMAC-SHA256 webhook signature validation ensuring cryptographically verified Meta WhatsApp API messages
+- JWT authentication with role-based access control (RBAC) and 24h token expiry
+- Dual-layer rate limiting: 10 verifications/hour per phone, 100 requests/minute per IP preventing brute force
+- Cryptographically secure code generation excluding ambiguous characters (O,0,I,1) enabling 34B+ unique combinations
 
-| Layer | Implementation | Purpose |
-|-------|---------------|---------|
-| **Database** | Row-level locking (`SELECT FOR UPDATE`) | Prevents race conditions on concurrent verifications |
-| **API** | HMAC-SHA256 webhook validation | Cryptographic verification of Meta WhatsApp messages |
-| **Auth** | JWT with RBAC, 24h expiry | Secure admin dashboard access |
-| **Rate Limiting** | 10/hour per phone, 100/min per IP | Brute force & abuse prevention |
-| **Codes** | Excludes O,0,I,1 | 34B+ unambiguous combinations |
+**API Engineering**
+- Sub-24ms p95 response times validated through k6 load testing at 200 concurrent users
+- JSONB metadata storage capturing complete audit trails with full verification traceability
+- Field-selective database queries minimizing payload overhead
 
-### ⚡ Performance Engineering
+**Core Features**
+- Real-time React admin dashboard with live verification metrics and batch analytics
+- Batch management system allowing instant blocking of entire production batches
+- QR code generation for printable product stickers with embedded verification URLs
+- Multi-format export (CSV/Excel) with embedded QR codes for distribution
+- Complete audit logging tracking every verification attempt with phone, timestamp, and result
 
-- **24ms p95 response** under 200 concurrent users (k6 load tested)
-- **Strategic indexing** on `batch_no`, `status`, `created_at`, `verified_at`
-- **Connection pooling** (50 concurrent) with query timeouts
-- **Prepared statement caching** for sustained high-throughput
-- **Zero failed requests** at peak load
+Built with **Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud API**
 
-### 📊 Key Features
+</div>
 
-- **Real-time Dashboard** — Live verification metrics, batch analytics, fraud alerts
-- **Batch Management** — Instant blocking of compromised production batches
-- **Complete Audit Trail** — JSONB metadata storage with full traceability
-- **QR Generation** — Printable stickers with embedded verification URLs
-- **Multi-format Export** — CSV/Excel downloads with embedded QR codes
-
----
-
-<p align="center">
+<p align="right">
   <a href="https://drive.google.com/file/d/1k8IMdTW8HkxCL6cUuAIUIV_9_cCGeBal/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/View_Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
