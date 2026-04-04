@@ -178,32 +178,52 @@ I'm interested in projects and teams that value system design, long-term scalabi
 ## Featured Projects
 ### WhatsApp Product Verification — Anti-Counterfeiting Platform
 
-<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
-
-**Enterprise-grade anti-counterfeiting platform** enabling brands to verify product authenticity via WhatsApp with millisecond response times and bank-level security.
-
-- **PostgreSQL row-level locking** (`SELECT FOR UPDATE`) preventing race conditions and duplicate activations across millions of concurrent verification requests
-- **Strategic database indexing** (batch_no, status, created_at) achieving sub-24ms query performance at 200 concurrent users
-- **HMAC-SHA256 webhook validation** with Meta WhatsApp Cloud API ensuring all incoming messages are cryptographically verified
-- **Dual-layer rate limiting** (10 verifications/hour per phone, 100 requests/minute per IP) with PostgreSQL-backed storage preventing brute force attacks
-- **Cryptographically secure code generation** excluding ambiguous characters (O,0,I,1) enabling 34B+ unique combinations for enterprise-scale deployments
-- **JWT authentication with role-based access control** (RBAC) securing all admin operations with 24h token expiry
-- **Real-time admin dashboard** built with React + TypeScript displaying live verification metrics, batch analytics, and fraud detection alerts
-- **Batch management system** allowing instant blocking of entire production batches when quality issues or fraud detected
-- **Comprehensive audit logging** with JSONB metadata storage capturing every verification attempt with full traceability
-- **Optimized connection pooling** (50 concurrent connections) with query timeouts preventing database exhaustion under peak load
-- **Load tested with k6** maintaining 24ms p95 response times at 200 concurrent users with 0% verification failures
-- **Full test coverage** with 30/30 unit and integration tests passing, validating all security and business logic
-- **Prepared statement caching** and connection reuse minimizing database overhead for sustained high-throughput scenarios
-
-</div>
-<p align="right">
-  <a href="https://drive.google.com/file/d/1k8IMdTW8HkxCL6cUuAIUIV_9_cCGeBal/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-14+-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Response_Time-24ms_p95-success?style=flat" />
+  <img src="https://img.shields.io/badge/Load_Tested-200_users-blue?style=flat" />
 </p>
 
-</div>
+**Enterprise-grade anti-counterfeiting platform** enabling instant product authenticity verification via WhatsApp. Brands protect millions of products with cryptographically secure codes, real-time fraud detection, and sub-25ms response times.
+
+---
+
+### 🔐 Security Architecture
+
+| Layer | Implementation | Purpose |
+|-------|---------------|---------|
+| **Database** | Row-level locking (`SELECT FOR UPDATE`) | Prevents race conditions on concurrent verifications |
+| **API** | HMAC-SHA256 webhook validation | Cryptographic verification of Meta WhatsApp messages |
+| **Auth** | JWT with RBAC, 24h expiry | Secure admin dashboard access |
+| **Rate Limiting** | 10/hour per phone, 100/min per IP | Brute force & abuse prevention |
+| **Codes** | Excludes O,0,I,1 | 34B+ unambiguous combinations |
+
+### ⚡ Performance Engineering
+
+- **24ms p95 response** under 200 concurrent users (k6 load tested)
+- **Strategic indexing** on `batch_no`, `status`, `created_at`, `verified_at`
+- **Connection pooling** (50 concurrent) with query timeouts
+- **Prepared statement caching** for sustained high-throughput
+- **Zero failed requests** at peak load
+
+### 📊 Key Features
+
+- **Real-time Dashboard** — Live verification metrics, batch analytics, fraud alerts
+- **Batch Management** — Instant blocking of compromised production batches
+- **Complete Audit Trail** — JSONB metadata storage with full traceability
+- **QR Generation** — Printable stickers with embedded verification URLs
+- **Multi-format Export** — CSV/Excel downloads with embedded QR codes
+
+---
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1k8IMdTW8HkxCL6cUuAIUIV_9_cCGeBal/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+  </a>
+</p>
 
 ### TaskFlow — Project Management Platform
 
