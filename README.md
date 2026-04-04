@@ -62,7 +62,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 </tr>
 </table>
 
-> *I care equally about **product impact** and **technical depth** — good systems do both.*
+> *I care equally about **product impact** and **technical depth** - good systems do both.*
 
 ---
 
