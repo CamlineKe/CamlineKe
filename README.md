@@ -70,7 +70,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <div align="center">
 
-[![WhatsApp Product Verification](https://img.shields.io/badge/%F0%9F%93%B1%20WhatsApp%20Product%20Verification-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e293b)](https://drive.google.com/file/d/1Hz8t7HKPFMAEyOtWqiVow3kSxXmoi945/view?usp=drive_link)
+[![WhatsApp Product Verification](https://img.shields.io/badge/%F0%9F%93%B1%20WhatsApp%20Product%20Verification-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e293b)](https://drive.google.com/file/d/1k8IMdTW8HkxCL6cUuAIUIV_9_cCGeBal/view?usp=drive_link)
 
 </div>
 
