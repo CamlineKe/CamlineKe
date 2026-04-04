@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm a systems-driven full-stack engineer working primarily with the MERN stack, Next.js, and TypeScript. I focus on building stable, scalable applications by designing clear architectures before writing code.
+I'm a systems-driven full-stack generalist working primarily with the MERN stack, Next.js, TypeScript, Laravel, and Vue. I focus on building stable, scalable applications by designing clear architectures before writing code.
 
 My workflow emphasizes problem decomposition, root-cause analysis, and feature-based architecture. This approach helps me debug efficiently, reason about complex systems, and produce code that remains maintainable as projects grow.
 
