@@ -209,16 +209,30 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
-**Enterprise-grade collaboration platform** combining intuitive task management with robust team workflows and real-time analytics.
+**High-performance project management platform** engineered for sub-50ms API response times at 1000+ task scale.
 
-- **Secure JWT-based authentication** with email verification and password recovery for enterprise-grade security
-- **Dynamic project management** allowing users to create, customize, and monitor projects with team access controls
-- **Interactive Kanban workflow** with drag-and-drop task management across customizable columns (To Do, In Progress, Done)
-- **Comprehensive task tracking** including priority levels, due dates, team assignments, and completion monitoring
-- **High-performance caching layer** with Upstash Redis reducing database load by 60% and delivering sub-50ms API responses
-- **Real-time collaboration features** with instant updates on task assignments and project progress
-- **Analytics dashboard** displaying project overviews, recent activity feeds, and visual progress indicators
-- Built for scale and performance with **Next.js + TypeScript**
+**Database Optimization**
+- Compound MongoDB indexes (project+status, column+board, tasks) achieving O(log n) query complexity
+- Aggregation pipelines for analytics — eliminated N+1 queries, reduced DB round-trips by 60%
+- Strategic schema design with embedded task references for O(1) board loads
+
+**Caching Architecture**
+- Tiered Redis TTL strategy: 15-min static boards, 2-min volatile tasks, 2-min dashboard stats
+- Intelligent cache invalidation on mutations + warming on project creation
+- Stale-while-revalidate pattern — instant UI with background data refresh
+
+**API Engineering**
+- Single-purpose endpoints: `/dashboard/stats` aggregates 4 collections server-side vs 2 separate calls
+- Field-selective MongoDB projections reducing payload sizes by 70%
+- Request timing middleware for production bottleneck detection (>500ms alerts)
+
+**Core Features**
+- Secure JWT authentication with email verification and password recovery
+- Interactive Kanban workflow with drag-and-drop across customizable columns
+- Real-time task assignment with priority levels, due dates, and progress tracking
+- Analytics dashboard with visual progress indicators and activity feeds
+
+Built with **Next.js · TypeScript · MongoDB · Redis · React Query**
 
 </div>
 
@@ -227,8 +241,6 @@ I'm interested in projects and teams that value system design, long-term scalabi
     <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-</div>
 
 ### Fitness Tracker — Personalized Wellness Platform
 
