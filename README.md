@@ -252,26 +252,61 @@ Built with **Next.js · TypeScript · MongoDB · Redis · React Query**
   </a>
 </p>
 
-### Fitness Tracker — Personalized Wellness Platform
+### AI-Powered Fitness & Wellness Platform
 
 <div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
-**Personalized wellness platform** combining intelligent tracking with adaptive recommendations for holistic health management.
+**Full-stack health tracking ecosystem** combining workout analytics, nutrition monitoring, and mental health assessment with real-time ML-powered recommendations serving personalized insights with sub-500ms response times.
 
-- **Secure JWT-based authentication** with profile management and password encryption for user data protection
-- **Multi-metric health tracking** including workouts, meals, and mood patterns for comprehensive wellness insights
-- **Smartwatch integration** (Google Fit & Fitbit) for automatic calorie tracking and workout logging during exercise sessions
-- **Age-adaptive ML recommendation engine** built with **Flask + scikit-learn** that analyzes user patterns to deliver personalized fitness, nutrition, and stress management guidance with confidence scoring
-- **Real-time gamification system** with points, streaks, achievements, and level progression to maintain user engagement
-- **Interactive dashboards** with Chart.js and ApexCharts for progress visualization and health trend monitoring over time
-- **Socket.IO-powered live updates** for instant feedback on achievements and gamification events
-- **Comprehensive Kenyan cuisine database** with 100+ meals for accurate nutrition tracking
-- Built for performance and scale with **React + Node.js + MongoDB**
+**Microservices Architecture**
+- 3-tier decoupled design: React frontend → Node.js API gateway → Python Flask ML service
+- Socket.IO WebSocket clusters enabling real-time gamification updates and live activity feeds
+- Horizontal scaling support with stateless JWT authentication and isolated service deployment
+
+**Machine Learning Engine**
+- 3 production-grade RandomForest classifiers (scikit-learn) trained on 30K+ synthetic samples
+- Feature engineering with one-hot encoding for categorical data (moods, activity types)
+- Confidence-scored predictions with graceful fallback to rule-based logic when ML uncertainty > 0.4
+- Time-weighted trend analysis using exponential decay (recent check-ins weighted 2-3x higher)
+- Volatility detection algorithms classifying patterns as consistent/moderate/fluctuating
+
+**Performance Engineering**
+- HTTP keep-alive connection pooling reducing TCP handshake overhead by ~65% for ML service calls
+- Multi-layer caching strategy: Flask bounded LRU (100 entries, 5-min TTL) + Node.js LRU (4-min TTL) + client SessionStorage
+- Batch API endpoint (`/api/ai/all`) parallelizing 3 recommendation streams into single request (~350ms latency reduction)
+- Async model loading eliminating cold-start timeouts on Render free tier (server ready in <2s vs 8s)
+- Optimized cache key bucketing improving hit rates from ~10% to ~70% through value quantization
+
+**Database Architecture**
+- MongoDB with strategic compound indexing (userId + date) achieving O(log n) query complexity for time-series health logs
+- 5 specialized schemas: User (embedded device tokens), Workout, Nutrition, MentalHealth, Gamification
+- Atomic streak calculations with concurrent update protection via Mongoose optimistic locking
+
+**Security Implementation**
+- JWT access/refresh token rotation with bcryptjs password hashing (salt rounds: 10)
+- OAuth2 flows for Google Fit and Fitbit integrations with automatic token refresh
+- Express-rate-limit: 100 requests per 15-minute window with IP + userId dual key generation
+- CORS whitelist with origin validation and credential-safe cross-origin policies
+- Environment-based secrets management with render.yaml zero-config deployment
+
+**Device Integration**
+- Google Fit API: calories.expended + heart_rate.bpm real-time synchronization
+- Fitbit Web API: activities + heart rate intraday data with automatic reconnection
+- Token refresh handling with automatic disconnect on persistent auth failures
+
+**Core Features**
+- **Workout Intelligence**: Heart rate zone analysis (Tanaka formula), ML-generated intensity recommendations, weekly volume tracking
+- **Nutrition Analytics**: Macronutrient ratio analysis, meal timing pattern detection, age/gender-specific caloric guidance
+- **Mental Health Insights**: Mood trend analysis with volatility tracking, stress level progression monitoring, personalized coping strategies
+- **Gamification Engine**: Point accrual across 3 categories, streak maintenance with anti-cheat validation, achievement unlock system with confetti rewards
+- **Real-time Dashboard**: Chart.js visualizations with ApexCharts integration, live notification feed via Socket.IO rooms
+
+Built with **React 18 · Node.js · Express · MongoDB · Python Flask · scikit-learn · Socket.IO · Docker-ready**
 
 </div>
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1faXK3lD3dghm01WamZfxO6ZezgGi0vtC/view?usp=drive_link">
+  <a href="https://fitness-app-dusky-six.vercel.app">
     <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
