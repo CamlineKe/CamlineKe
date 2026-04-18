@@ -70,7 +70,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 <div align="center">
 
-[![WhatsApp Product Verification](https://img.shields.io/badge/%F0%9F%93%B1%20WhatsApp%20Product%20Verification-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e293b)](https://drive.google.com/file/d/1k8IMdTW8HkxCL6cUuAIUIV_9_cCGeBal/view?usp=drive_link)
+[![WhatsApp Product Verification](https://img.shields.io/badge/%F0%9F%93%B1%20WhatsApp%20Product%20Verification-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e293b)](https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link)
 
 </div>
 
@@ -210,7 +210,7 @@ Built with **Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud
 </div>
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1k8IMdTW8HkxCL6cUuAIUIV_9_cCGeBal/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
