@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm a systems-driven full-stack engineer who builds scalable applications with Node.js, React, and PostgreSQL, but no stack defines me. I decompose messy problems, trace root causes, and design stable architectures before writing code.
+I'm a systems-driven full-stack engineer who turns complex ideas, business processes, and operational challenges into reliable custom software. I work across the stack with tools such as Node.js, React, and PostgreSQL, but no stack defines me.
 
 My workflow centers on systems thinking, clear abstractions, and deliberate tradeoffs. I care about reliability, performance, cost, and long-term maintainability.
 
@@ -43,28 +43,16 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 ## What I Do
 
-<table>
-<tr>
-<td width="50%">
+I design and build custom software that transforms complex ideas, business processes, and operational challenges into reliable digital systems.
 
-**Product Engineering**
-- Full-stack applications **end-to-end**
-- **Performance & optimization** for real users
-- **Security, auth & access control** by design
+| Area | What I Build | Business Impact |
+|:-----|:-------------|:----------------|
+| **Custom Business Software** | Workflow systems, internal tools, approval platforms, and management dashboards | Replaces inefficient manual processes and improves operational visibility |
+| **Web & Mobile Applications** | Customer portals, SaaS products, marketplaces, and mobile-first platforms | Turns ideas into accessible, production-ready digital products |
+| **Automation & Integrations** | Reporting automation, notifications, payment integrations, APIs, and data synchronization | Reduces repetitive work, errors, and disconnected processes |
+| **Scalable Product Engineering** | Secure backends, role-based systems, optimized databases, and analytics platforms | Creates reliable software designed to grow with the organization |
 
-</td>
-<td width="50%">
-
-**AI Integration**
-- **AI-assisted workflows** that multiply productivity
-- **Prompt engineering** for decision-making
-- Turning complexity into **clean, scalable systems**
-
-</td>
-</tr>
-</table>
-
-> *I care equally about **product impact** and **technical depth** - good systems do both.*
+> *I focus on understanding the real problem first, then building the simplest reliable system that delivers measurable value.*
 
 ---
 
