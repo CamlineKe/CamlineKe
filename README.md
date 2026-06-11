@@ -128,50 +128,22 @@ I'm interested in projects and teams that value system design, long-term scalabi
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextauth,jwt,openai,meta" />
+  </a>
+</p>
+
 ## Breakdown:
 - **Frontend:** Next.js, React 19, TypeScript, Vite, Flutter, React Router DOM 7, React Hook Form
 - **UI & Design:** Tailwind CSS 4, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
-- **Backend & APIs:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, Axios, Winston, Zod 3
+- **Backend & APIs:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, Axios, Winston, Zod 3, NextAuth
 - **Database & Persistence:** PostgreSQL 14+, MongoDB, Prisma, Redis (Upstash), node-pg, connection pooling
 - **Security & Auth:** JWT, Bcrypt, Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
 - **Testing & Performance:** Jest 29, Supertest, React Testing Library, k6 (load testing)
 - **DevOps & Deployment:** Docker, Git, GitHub, Vercel, Render, Nginx
-- **Integrations:** Meta Cloud API v18, Webhooks, E.164 phone validation, rate limiting (10/hour)
+- **Integrations:** Meta Cloud API v18, OpenAI, Webhooks, E.164 phone validation, rate limiting (10/hour)
 - **Utilities:** QRCode, UUID, CSV parser, Fast-CSV 5, Dotenv 16
-
-**Core Arsenal:**
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Shadcn%20UI-black?style=for-the-badge&logo=shadcnui&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=nextauth&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Meta%20API-0668E1?style=for-the-badge&logo=meta&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
 ---
 
