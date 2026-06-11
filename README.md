@@ -29,11 +29,13 @@
 
 ## About Me
 
-I'm a systems-driven full-stack generalist working primarily with the MERN stack,PERN stack, Next.js, TypeScript, Laravel, and Vue. I focus on building stable, scalable applications by designing clear architectures before writing code.
+I'm a systems-driven full-stack engineer who builds scalable applications with Node.js, React, and PostgreSQL, but no stack defines me. I decompose messy problems, trace root causes, and design stable architectures before writing code.
 
-My workflow emphasizes problem decomposition, root-cause analysis, and feature-based architecture. This approach helps me debug efficiently, reason about complex systems, and produce code that remains maintainable as projects grow.
+My workflow centers on systems thinking, clear abstractions, and deliberate tradeoffs. I care about reliability, performance, cost, and long-term maintainability.
 
-AI plays a key role in how I work. I use it to challenge assumptions, validate designs, refine requirements, and prototype thoughtfully - treating it as a thinking partner rather than a replacement for engineering judgment.
+AI is core to how I work, not as a shortcut, but as a thinking partner. Through agentic coding, I challenge assumptions, validate decisions, and prototype deliberately. Strong judgment plus effective AI collaboration makes engineers unbreakable.
+
+I own what I build, from architecture to production. I mentor, review ruthlessly, and communicate tradeoffs clearly, because clarity scales better than cleverness.
 
 I'm interested in projects and teams that value system design, long-term scalability, and deliberate engineering over rushed solutions.
 
