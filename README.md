@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Moses%20Maina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Engineer%20|%20AI-Augmented%20Development&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Moses%20Maina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems-Driven%20Full-Stack%20Engineer%20|%20AI-Augmented%20Development&descAlignY=55&descSize=18" />
 </p>
 
 <!-- Dynamic Typing -->
