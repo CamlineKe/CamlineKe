@@ -82,17 +82,16 @@ I design and build custom software that transforms complex ideas, business proce
 
 ## Engineering Philosophy
 
-<div align="center">
+| Principle | How I Apply It |
+|:----------|:---------------|
+| **Understand before building** | I define the real problem, constraints, and desired outcomes before choosing a solution. |
+| **Simple systems scale better** | I prefer clear architectures and focused abstractions over unnecessary complexity. |
+| **Build for reliability** | I treat security, correctness, observability, and failure handling as core product requirements. |
+| **Optimize with evidence** | I use measurements and real usage patterns to guide performance and scaling decisions. |
+| **Design for change** | I build maintainable systems that can evolve as business needs and user expectations change. |
+| **AI strengthens engineering judgment** | I use AI to challenge assumptions, explore alternatives, and accelerate delivery without outsourcing decisions. |
 
-| Principle | Stance |
-|:----------|:-------|
-| Plan first, code second | Agree |
-| AI is a multiplier, not a replacement | Agree |
-| Simple systems beat clever ones | Agree |
-| Security and correctness are non-negotiable | Agree |
-| *Better to build small with real impact than massive without* | **Core belief** |
-
-</div>
+> *The goal is not merely to ship software, but to build the right system and keep it valuable over time.*
 
 ---
 
