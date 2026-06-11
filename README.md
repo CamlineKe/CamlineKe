@@ -129,18 +129,16 @@ I'm interested in projects and teams that value system design, long-term scalabi
 </p>
 
 ## Breakdown:
-- **Frontend:** Next.js, React 19, TypeScript, Tailwind CSS 4, Material-UI, Shadcn/ui, Vite, Flutter, Lucide React, Recharts, React Router DOM 7, React Hook Form
-- **Backend:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, JWT, Bcrypt, Zod 3, Axios, Winston
-- **Database:** PostgreSQL 14+, MongoDB, Prisma, Redis(Upstash), node-pg (Row-level locking with SELECT FOR UPDATE), Connection pooling
-- **Testing:** Jest 29, Supertest, k6 (Load Testing), React Testing Library
-- **DevOps:** Docker, Git, GitHub, Vercel, Render, Nginx
-- **Security:** Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 Validation, Input Sanitization, XSS Prevention, Meta WhatsApp API
-- **QR & Utilities:** QRCode, UUID, CSV Parser, Fast-CSV 5, Dotenv 16
-- **WhatsApp Integration:** Meta Cloud API v18, Webhooks, E.164 Phone Validation, Rate Limiting (10/hour)
-- **Authentication:** JWT Tokens, Role-Based Access (Admin), Bcrypt Password Hashing
-- **Styling & Design:** Tailwind CSS, Material-UI, Figma, Lucide React, Recharts
-- **Additional Tools:** Axios (HTTP Client), Winston (Logging), Zod (Schema Validation), UUID (Unique IDs), CSV Processing
-  
+- **Frontend:** Next.js, React 19, TypeScript, Vite, Flutter, React Router DOM 7, React Hook Form
+- **UI & Design:** Tailwind CSS 4, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
+- **Backend & APIs:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, Axios, Winston, Zod 3
+- **Database & Persistence:** PostgreSQL 14+, MongoDB, Prisma, Redis (Upstash), node-pg, connection pooling
+- **Security & Auth:** JWT, Bcrypt, Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
+- **Testing & Performance:** Jest 29, Supertest, React Testing Library, k6 (load testing)
+- **DevOps & Deployment:** Docker, Git, GitHub, Vercel, Render, Nginx
+- **Integrations:** Meta Cloud API v18, Webhooks, E.164 phone validation, rate limiting (10/hour)
+- **Utilities:** QRCode, UUID, CSV parser, Fast-CSV 5, Dotenv 16
+
 **Core Arsenal:**
 <table>
   <tr>
