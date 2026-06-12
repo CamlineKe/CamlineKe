@@ -111,25 +111,7 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,postgres,mongodb,prisma" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,flutter,docker,git,github,vercel,vite" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,python,javascript,figma,redux,nginx,redis" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,sklearn,flask,postman,aws,githubactions,linux,bash,supabase,prometheus" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,materialui,redux,figma,nodejs,express,fastapi,python,flask,postgres,mongodb,prisma,redis,supabase,docker,nginx,vercel,aws,githubactions,git,github,linux,bash,vite,jest,sklearn,postman,prometheus&perline=9" alt="Technology stack" />
   </a>
 </p>
 
