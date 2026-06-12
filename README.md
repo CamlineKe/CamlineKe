@@ -73,10 +73,14 @@ I design and build custom software that transforms complex ideas, business proce
 
 ---
 
-**Also seeking:**
-- Internship opportunities
-- Freelance collaborations  
-- Early-stage startup ventures
+## Open To
+
+- **Full-time and graduate engineering opportunities** where I can contribute across backend, full-stack, custom software, and product engineering.
+- **Freelance projects** helping businesses transform operational challenges and product ideas into reliable digital systems.
+- **Early-stage startup opportunities**, including employment, contract work, technical partnerships, and co-founder conversations.
+- **Remote, hybrid, and onsite opportunities** within Kenya and internationally.
+
+> *I bring a problem-first mindset, adapt quickly to unfamiliar domains, and take ownership from system design through production delivery.*
 
 ---
 
@@ -221,7 +225,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 ## Let's Build Something
 
 <p align="center">
-  <strong>Open for:</strong> Full-time roles • Freelance work • Collaborations • Startup ideas
+  <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
 </p>
 
 <p align="center">
