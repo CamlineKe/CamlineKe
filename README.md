@@ -15,13 +15,13 @@
 <!-- Socials -->
 <p align="center">
   <a href="https://linkedin.com/in/moses-ongware" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Moses Maina on LinkedIn" />
   </a>
   <a href="https://moses-maina-portfolio.vercel.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-%230d9488.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="View Moses Maina's portfolio" />
   </a>
   <a href="mailto:cmosesmaina@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Moses Maina" />
   </a>
 </p>
 
@@ -250,11 +250,11 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/moses-ongware">
-    <img src="https://img.shields.io/badge/Hire%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/moses-ongware" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Moses Maina on LinkedIn" />
   </a>
-  <a href="mailto:cmosesmaina@gmail.com">
-    <img src="https://img.shields.io/badge/Discuss%20an%20idea-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:cmosesmaina@gmail.com" title="Start a conversation by email">
+    <img src="https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation with Moses Maina by email" />
   </a>
 </p>
 
