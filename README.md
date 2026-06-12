@@ -194,15 +194,14 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488&cache_seconds=1800" />
+      <a href="https://github.com/CamlineKe">
+        <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" alt="CamlineKe GitHub statistics" />
+      </a>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&cache_seconds=1800" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamlineKe&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&layout=compact&cache_seconds=1800" />
+      <a href="https://github.com/CamlineKe">
+        <img src="https://streak-stats.demolab.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0d9488&sideLabels=ffffff&dates=94a3b8" alt="CamlineKe GitHub contribution streak" />
+      </a>
     </td>
   </tr>
 </table>
