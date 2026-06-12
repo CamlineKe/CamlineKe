@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Moses%20Maina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Custom%20Software%20Engineer%20%7C%20Full-Stack%20Product%20Builder&descAlignY=55&descSize=18" alt="Moses Maina — Custom Software Engineer and Full-Stack Product Builder" />
 </p>
 
-<!-- Dynamic Typing -->
+<!-- Dynamic Capabilities -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20custom%20software%20for%20real%20operational%20problems;Engineering%20reliable%20products%20from%20idea%20to%20production;Designing%20secure%20systems%20that%20scale%20with%20the%20business&center=true&width=700&height=50&color=60A5FA&font=Inter&pause=1200" alt="Building custom software for real operational problems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Designing%20secure%2C%20scalable%20software%20systems;Building%20reliable%20products%20from%20idea%20to%20production;Automating%20complex%20business%20workflows;Integrating%20payments%2C%20APIs%2C%20and%20intelligent%20systems&center=true&width=700&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Software engineering capabilities" />
 </p>
 
 <p align="center">
-  <strong>Turning complex business problems into reliable, production-ready software.</strong>
+  <em>Problem-first engineering. Reliable systems. Measurable impact.</em>
 </p>
 
 <!-- Socials -->
