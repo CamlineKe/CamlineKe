@@ -58,18 +58,17 @@ I design and build custom software that transforms complex ideas, business proce
 
 ## Now Building
 
-<div align="center">
+### WhatsApp Product Verification Platform
 
-[![WhatsApp Product Verification](https://img.shields.io/badge/%F0%9F%93%B1%20WhatsApp%20Product%20Verification-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e293b)](https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link)
+Currently refining a secure anti-counterfeiting platform that enables consumers to verify products through WhatsApp while giving brands visibility into verification activity.
 
-</div>
+**Current focus:** Production readiness · Fraud-pattern monitoring · Operational analytics · High-volume scalability
 
 <p align="center">
-  <strong>Enterprise system helping brands fight counterfeiting via WhatsApp verification</strong><br>
-  <em>React • Node.js • PostgreSQL • Meta WhatsApp API • QR Generation • Row-level locking</em>
+  <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_Project_Demo-0d9488?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
-
-**Priorities:** Security-first • Sub-2 second response • High-volume scalability • Real-time fraud detection
 
 ---
 
