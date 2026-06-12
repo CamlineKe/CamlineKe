@@ -121,7 +121,7 @@ I design and build custom software that transforms complex ideas, business proce
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextauth,jwt,openai,meta" />
+    <img src="https://skillicons.dev/icons?i=jest,sklearn,flask,postman,aws,githubactions,linux,bash" />
   </a>
 </p>
 
@@ -132,7 +132,7 @@ I design and build custom software that transforms complex ideas, business proce
 - **Database & Persistence:** PostgreSQL 14+, MongoDB, Prisma, Redis (Upstash), node-pg, connection pooling
 - **Security & Auth:** JWT, Bcrypt, Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
 - **Testing & Performance:** Jest 29, Supertest, React Testing Library, k6 (load testing)
-- **DevOps & Deployment:** Docker, Git, GitHub, Vercel, Render, Nginx
+- **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, Vercel, Render, Nginx, ngrok
 - **Integrations:** Meta Cloud API v18, OpenAI, Webhooks, E.164 phone validation, rate limiting (10/hour)
 - **Utilities:** QRCode, UUID, CSV parser, Fast-CSV 5, Dotenv 16
 
