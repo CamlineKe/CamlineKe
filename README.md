@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Moses%20Maina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Custom%20Software%20Engineer%20%7C%20Full-Stack%20Product%20Builder&descAlignY=55&descSize=18" alt="Moses Maina — Custom Software Engineer and Full-Stack Product Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Moses%20Maina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems-Driven%20Software%20Engineer%20%7C%20Custom%20Software%20Builder&descAlignY=55&descSize=18" alt="Moses Maina — Systems-Driven Software Engineer and Custom Software Builder" />
 </p>
 
 <!-- Dynamic Capabilities -->
@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm a systems-driven full-stack engineer who turns complex ideas, business processes, and operational challenges into reliable custom software. I work across the stack with tools such as Node.js, React, and PostgreSQL, but no stack defines me.
+I'm a systems-driven software engineer who turns complex ideas, business processes, and operational challenges into reliable custom software. I work across the stack with tools such as Node.js, React, and PostgreSQL, but no stack defines me.
 
 My workflow centers on systems thinking, clear abstractions, and deliberate tradeoffs. I care about reliability, performance, cost, and long-term maintainability.
 
