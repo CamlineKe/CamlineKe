@@ -58,17 +58,11 @@ I design and build custom software that transforms complex ideas, business proce
 
 ## Now Building
 
-### WhatsApp Product Verification Platform
+### Rental Management System — PropertyTech SaaS Platform
 
-Currently refining a secure anti-counterfeiting platform that enables consumers to verify products through WhatsApp while giving brands visibility into verification activity.
+Building a multi-tenant rental management platform that helps landlords, caretakers, tenants, and platform administrators manage properties, rent payments, maintenance, and financial operations.
 
-**Current focus:** Production readiness · Fraud-pattern monitoring · Operational analytics · High-volume scalability
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/View_Project_Demo-0d9488?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+**Current focus:** Production readiness · Reliable M-Pesa reconciliation · Background-job automation · Operational monitoring
 
 ---
 
@@ -120,24 +114,50 @@ Currently refining a secure anti-counterfeiting platform that enables consumers 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,sklearn,flask,postman,aws,githubactions,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=jest,sklearn,flask,postman,aws,githubactions,linux,bash,supabase,prometheus" />
   </a>
 </p>
 
 ## Breakdown:
-- **Frontend:** Next.js, React 19, TypeScript, Vite, Flutter, React Router DOM 7, React Hook Form
-- **UI & Design:** Tailwind CSS 4, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
-- **Backend & APIs:** Node.js, Express 4, FastAPI, Python, JavaScript, TypeScript, Axios, Winston, Zod 3, NextAuth
-- **Database & Persistence:** PostgreSQL 14+, MongoDB, Prisma, Redis (Upstash), node-pg, connection pooling
-- **Security & Auth:** JWT, Bcrypt, Helmet 7, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
-- **Testing & Performance:** Jest 29, Supertest, React Testing Library, k6 (load testing)
-- **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, Vercel, Render, Nginx, ngrok
-- **Integrations:** Meta Cloud API v18, OpenAI, Webhooks, E.164 phone validation, rate limiting (10/hour)
+- **Frontend:** Next.js, React, TypeScript, Vite, Flutter, React Router, React Query, React Hook Form
+- **UI & Design:** Tailwind CSS, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
+- **Backend & APIs:** Node.js, Express, FastAPI, Python, TypeScript, Prisma, BullMQ, Axios, Winston, Pino, Zod, NextAuth
+- **Database & Persistence:** PostgreSQL, MongoDB, Redis, Supabase, Upstash, Prisma, node-pg, connection pooling
+- **Security & Auth:** JWT, RS256, Bcrypt, Helmet, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
+- **Testing & Observability:** Jest, Supertest, React Testing Library, k6, Prometheus
+- **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, Vercel, Render, Nginx, ngrok, Turborepo
+- **Integrations:** M-Pesa Daraja API, Africa's Talking, Cloudinary, Meta Cloud API, OpenAI, Webhooks
 - **Utilities:** QRCode, UUID, CSV parser, Fast-CSV 5, Dotenv 16
 
 ---
 
 ## Featured Projects
+
+### Rental Management System — PropertyTech SaaS Platform
+
+A multi-tenant rental management platform designed for the African property market, connecting landlords, caretakers, tenants, and platform administrators through role-specific workflows.
+
+- Engineered reliable M-Pesa payment reconciliation using idempotent callbacks, serializable database transactions, PostgreSQL advisory locks, and missed-callback recovery.
+- Built four independently deployable role-based applications covering property operations, tenant payments, instalment plans, maintenance requests, analytics, and reporting.
+- Moved PDF and Excel report generation into asynchronous BullMQ workers while securing the platform with RS256 authentication, refresh-token rotation, RBAC, rate limiting, and audit logs.
+- Maintains **263 passing backend tests across 67 suites**, covering authentication, authorization, payments, rate limiting, and role-specific APIs.
+
+**Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · M-Pesa Daraja API
+
+<p align="right">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Admin_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Landlord_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Tenant_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Caretaker_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ### WhatsApp Product Verification — Anti-Counterfeiting Platform
 
