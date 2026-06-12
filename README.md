@@ -64,6 +64,21 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 **Current focus:** Production readiness · Reliable M-Pesa reconciliation · Background-job automation · Operational monitoring
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Admin_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Landlord_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Tenant_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Caretaker_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## Open To
@@ -145,17 +160,17 @@ A multi-tenant rental management platform designed for the African property mark
 **Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · M-Pesa Daraja API
 
 <p align="right">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Admin_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Admin_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Landlord_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Landlord_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Tenant_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Tenant_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Caretaker_Portal-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Caretaker_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
