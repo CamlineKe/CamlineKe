@@ -69,7 +69,7 @@ I design and build custom software that transforms complex ideas, business proce
   <em>React • Node.js • PostgreSQL • Meta WhatsApp API • QR Generation • Row-level locking</em>
 </p>
 
-**Priorities:** Security-first • Sub-2 second response • Scale to millions • Real-time fraud detection
+**Priorities:** Security-first • Sub-2 second response • High-volume scalability • Real-time fraud detection
 
 ---
 
@@ -139,7 +139,7 @@ I design and build custom software that transforms complex ideas, business proce
 
 <div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
 
-**Enterprise-grade anti-counterfeiting platform** processing millions of product verifications via WhatsApp with sub-24ms response times and zero failed requests under peak load.
+**Enterprise-grade anti-counterfeiting platform** designed for high-volume product verification via WhatsApp, achieving sub-24ms p95 response times with zero failed requests during load testing at 200 concurrent users.
 
 **Database Architecture**
 - PostgreSQL row-level locking (`SELECT FOR UPDATE`) preventing race conditions and duplicate activations across concurrent verification requests
@@ -296,9 +296,13 @@ Built with **React 18 · Node.js · Express · MongoDB · Python Flask · scikit
 
 ## Credibility
 
-- Computer Science Graduate
-- Freelance experience shipping **production systems used by real users**
-- Built and maintained **secure, high-performance applications**
+| Area | Evidence |
+|:-----|:---------|
+| **Professional Experience** | Delivered two confidential client systems that are currently in use, translating business requirements into reliable production software. |
+| **Technical Validation** | Engineered an anti-counterfeiting platform with sub-24ms p95 response times and zero failed requests during load testing at 200 concurrent users. |
+| **Security & Reliability** | Implemented JWT authentication, HMAC-SHA256 webhook validation, PostgreSQL row-level locking, rate limiting, and audit logging. |
+| **Education** | BSc. Computer Science, Chuka University, 2025. |
+| **Certifications** | Docker Bootcamp for ML, GenAI and Agentic AI by Udemy · Prompt Engineering with Amazon Q Developer by AWS · Cybersecurity & Emerging Technologies Awareness by ICT Authority, Kenya |
 
 ---
 
@@ -321,9 +325,10 @@ Built with **React 18 · Node.js · Express · MongoDB · Python Flask · scikit
 
 ## Beyond Code
 
-- I enjoy **breaking complex systems into simple parts**
-- I like **teaching what I learn**
-- I care deeply about **clean abstractions and long-term maintainability**
+- I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
+- I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
+- I care about consumer safety and building tools that help businesses operate more effectively.
+- Outside engineering, I enjoy video games, music, nature walks, films, and series.
 
 ---
 
