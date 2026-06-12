@@ -1,15 +1,15 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Moses%20Maina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems-Driven%20Full-Stack%20Engineer%20|%20AI-Augmented%20Development&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Moses%20Maina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Custom%20Software%20Engineer%20%7C%20Full-Stack%20Product%20Builder&descAlignY=55&descSize=18" alt="Moses Maina — Custom Software Engineer and Full-Stack Product Builder" />
 </p>
 
 <!-- Dynamic Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20secure%20products%20end-to-end;AI-assisted%20workflows%20%26%20performance;Turning%20ideas%20into%20production%20systems&center=true&width=600&height=50&color=0d9488&font=Inter&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20custom%20software%20for%20real%20operational%20problems;Engineering%20reliable%20products%20from%20idea%20to%20production;Designing%20secure%20systems%20that%20scale%20with%20the%20business&center=true&width=700&height=50&color=60A5FA&font=Inter&pause=1200" alt="Building custom software for real operational problems" />
 </p>
 
 <p align="center">
-  <em>Mid-level engineer shipping real-world impact through clean systems and intelligent automation</em>
+  <strong>Turning complex business problems into reliable, production-ready software.</strong>
 </p>
 
 <!-- Socials -->
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Moses Maina on LinkedIn" />
   </a>
   <a href="https://moses-maina-portfolio.vercel.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="View Moses Maina's portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Moses Maina's portfolio" />
   </a>
   <a href="mailto:cmosesmaina@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Moses Maina" />
@@ -66,16 +66,16 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Admin_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Landlord_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Tenant_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Caretaker_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -143,16 +143,16 @@ A multi-tenant rental management platform designed for the African property mark
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Admin_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Landlord_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Tenant_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Caretaker_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -168,7 +168,7 @@ A secure verification platform that helps brands and consumers identify counterf
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -184,7 +184,7 @@ A project management platform for organizing team workflows, tracking progress, 
 
 <p align="right">
   <a href="https://taskflow-zeta-dusky.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -200,7 +200,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1X5lo3IBWAwOMf14NYUZI8D0OR4TGH0tR/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -212,12 +212,12 @@ A health tracking platform that combines workout, nutrition, and mental wellness
   <tr>
     <td>
       <a href="https://github.com/CamlineKe">
-        <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=0d9488" alt="CamlineKe GitHub statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB" alt="CamlineKe GitHub statistics" />
       </a>
     </td>
     <td>
       <a href="https://github.com/CamlineKe">
-        <img src="https://streak-stats.demolab.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=0d9488&fire=0d9488&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0d9488&sideLabels=ffffff&dates=94a3b8" alt="CamlineKe GitHub contribution streak" />
+        <img src="https://streak-stats.demolab.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=ffffff&dates=94a3b8" alt="CamlineKe GitHub contribution streak" />
       </a>
     </td>
   </tr>
@@ -225,7 +225,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 <p align="center">
   <a href="https://github.com/CamlineKe">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamlineKe&bg_color=0f172a&color=94a3b8&title_color=0d9488&line=0d9488&point=ffffff&area=true&area_color=0d9488&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="CamlineKe recent GitHub contribution activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamlineKe&bg_color=0f172a&color=94a3b8&title_color=2563EB&line=2563EB&point=ffffff&area=true&area_color=2563EB&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="CamlineKe recent GitHub contribution activity" />
   </a>
 </p>
 
@@ -270,9 +270,9 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer&reversal=true" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CamlineKe&color=0d9488&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CamlineKe&color=2563EB&style=flat-square" alt="Profile views" />
 </p>
