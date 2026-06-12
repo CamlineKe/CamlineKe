@@ -33,9 +33,9 @@ I'm a systems-driven full-stack engineer who turns complex ideas, business proce
 
 My workflow centers on systems thinking, clear abstractions, and deliberate tradeoffs. I care about reliability, performance, cost, and long-term maintainability.
 
-AI is core to how I work, not as a shortcut, but as a thinking partner. Through agentic coding, I challenge assumptions, validate decisions, and prototype deliberately. Strong judgment plus effective AI collaboration makes engineers unbreakable.
+AI is core to how I work, not as a shortcut, but as a thinking partner. Through agentic coding, I challenge assumptions, validate decisions, and prototype deliberately. Strong judgment combined with effective AI collaboration improves both delivery speed and decision quality.
 
-I own what I build, from architecture to production. I mentor, review ruthlessly, and communicate tradeoffs clearly, because clarity scales better than cleverness.
+I own what I build, from architecture to production. I mentor, review thoughtfully, and communicate tradeoffs clearly, because clarity scales better than cleverness.
 
 I'm interested in projects and teams that value system design, long-term scalability, and deliberate engineering over rushed solutions.
 
@@ -65,17 +65,17 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 **Current focus:** Production readiness · Reliable M-Pesa reconciliation · Background-job automation · Operational monitoring
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link" title="View RMS Admin demo">
+    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
   </a>
-  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link" title="View RMS Landlord demo">
+    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
   </a>
-  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link" title="View RMS Tenant demo">
+    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
   </a>
-  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link" title="View RMS Caretaker demo">
+    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Caretaker demo" />
   </a>
 </p>
 
@@ -110,12 +110,12 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 ## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" title="View Skill Icons">
     <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,materialui,redux,figma,nodejs,express,fastapi,python,flask,postgres,mongodb,prisma,redis,supabase,docker,nginx,vercel,aws,githubactions,git,github,linux,bash,vite,jest,sklearn,postman,prometheus&perline=9" alt="Technology stack" />
   </a>
 </p>
 
-## Breakdown:
+### Stack Breakdown
 - **Frontend:** Next.js, React, TypeScript, Vite, Flutter, React Router, React Query, React Hook Form
 - **UI & Design:** Tailwind CSS, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
 - **Backend & APIs:** Node.js, Express, FastAPI, Python, TypeScript, Prisma, BullMQ, Axios, Winston, Pino, Zod, NextAuth
@@ -124,7 +124,6 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 - **Testing & Observability:** Jest, Supertest, React Testing Library, k6, Prometheus
 - **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, Vercel, Render, Nginx, ngrok, Turborepo
 - **Integrations:** M-Pesa Daraja API, Africa's Talking, Cloudinary, Meta Cloud API, OpenAI, Webhooks
-- **Utilities:** QRCode, UUID, CSV parser, Fast-CSV 5, Dotenv 16
 
 ---
 
@@ -142,17 +141,17 @@ A multi-tenant rental management platform designed for the African property mark
 **Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · M-Pesa Daraja API
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link" title="View RMS Admin demo">
+    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
   </a>
-  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link" title="View RMS Landlord demo">
+    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
   </a>
-  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link" title="View RMS Tenant demo">
+    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
   </a>
-  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link" title="View RMS Caretaker demo">
+    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Caretaker demo" />
   </a>
 </p>
 
@@ -167,8 +166,8 @@ A secure verification platform that helps brands and consumers identify counterf
 **Built with:** Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud API
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link" title="View WhatsApp Product Verification demo">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View WhatsApp Product Verification demo" />
   </a>
 </p>
 
@@ -183,8 +182,8 @@ A project management platform for organizing team workflows, tracking progress, 
 **Built with:** Next.js · TypeScript · MongoDB · Redis · React Query
 
 <p align="right">
-  <a href="https://taskflow-zeta-dusky.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://taskflow-zeta-dusky.vercel.app/" title="View TaskFlow live demo">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View TaskFlow live demo" />
   </a>
 </p>
 
@@ -199,8 +198,8 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 **Built with:** React · Node.js · Express · MongoDB · Python Flask · scikit-learn · Socket.IO
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1X5lo3IBWAwOMf14NYUZI8D0OR4TGH0tR/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1X5lo3IBWAwOMf14NYUZI8D0OR4TGH0tR/view?usp=drive_link" title="View AI-Powered Fitness and Wellness demo">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View AI-Powered Fitness and Wellness demo" />
   </a>
 </p>
 
@@ -211,12 +210,12 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 <table>
   <tr>
     <td>
-      <a href="https://github.com/CamlineKe">
+      <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
         <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB" alt="CamlineKe GitHub statistics" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/CamlineKe">
+      <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
         <img src="https://streak-stats.demolab.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=ffffff&dates=94a3b8" alt="CamlineKe GitHub contribution streak" />
       </a>
     </td>
@@ -224,7 +223,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 </table>
 
 <p align="center">
-  <a href="https://github.com/CamlineKe">
+  <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamlineKe&bg_color=0f172a&color=94a3b8&title_color=2563EB&line=2563EB&point=ffffff&area=true&area_color=2563EB&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="CamlineKe recent GitHub contribution activity" />
   </a>
 </p>
@@ -236,10 +235,19 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 | Area | Evidence |
 |:-----|:---------|
 | **Professional Experience** | Delivered two confidential client systems that are currently in use, translating business requirements into reliable production software. |
-| **Technical Validation** | Engineered an anti-counterfeiting platform with sub-24ms p95 response times and zero failed requests during load testing at 200 concurrent users. |
+| **Technical Validation** | Built a multi-tenant PropertyTech platform backed by 263 passing tests across 67 suites, alongside an anti-counterfeiting platform validated at sub-24ms p95 during load testing. |
 | **Security & Reliability** | Implemented JWT authentication, HMAC-SHA256 webhook validation, PostgreSQL row-level locking, rate limiting, and audit logging. |
 | **Education** | BSc. Computer Science, Chuka University, 2025. |
 | **Certifications** | Docker Bootcamp for ML, GenAI and Agentic AI by Udemy · Prompt Engineering with Amazon Q Developer by AWS · Cybersecurity & Emerging Technologies Awareness by ICT Authority, Kenya |
+
+---
+
+## Beyond Code
+
+- I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
+- I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
+- I care about consumer safety and building tools that help businesses operate more effectively.
+- Outside engineering, I enjoy video games, music, nature walks, films, and series.
 
 ---
 
@@ -258,21 +266,10 @@ A health tracking platform that combines workout, nutrition, and mental wellness
   </a>
 </p>
 
----
-
-## Beyond Code
-
-- I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
-- I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
-- I care about consumer safety and building tools that help businesses operate more effectively.
-- Outside engineering, I enjoy video games, music, nature walks, films, and series.
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer&reversal=true" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=CamlineKe&color=2563EB&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CamlineKe&color=2563EB&style=flat-square" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer&reversal=true" alt="" />
 </p>
