@@ -186,7 +186,7 @@ A secure verification platform that helps brands and consumers identify counterf
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -218,7 +218,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1X5lo3IBWAwOMf14NYUZI8D0OR4TGH0tR/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
