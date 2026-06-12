@@ -135,38 +135,16 @@ I design and build custom software that transforms complex ideas, business proce
 ---
 
 ## Featured Projects
+
 ### WhatsApp Product Verification — Anti-Counterfeiting Platform
 
-<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
+A secure verification platform that helps brands and consumers identify counterfeit products through WhatsApp.
 
-**Enterprise-grade anti-counterfeiting platform** designed for high-volume product verification via WhatsApp, achieving sub-24ms p95 response times with zero failed requests during load testing at 200 concurrent users.
+- Achieved **sub-24ms p95 response times** with zero failed requests during load testing at 200 concurrent users.
+- Prevented duplicate activations and race-condition fraud using PostgreSQL row-level locking with complete audit trails.
+- Secured verification workflows using HMAC-SHA256 webhook validation, role-based access control, and dual-layer rate limiting.
 
-**Database Architecture**
-- PostgreSQL row-level locking (`SELECT FOR UPDATE`) preventing race conditions and duplicate activations across concurrent verification requests
-- Strategic indexing (batch_no, status, created_at, verified_at) achieving O(log n) query complexity
-- Optimized connection pooling (50 concurrent) with prepared statement caching for sustained high-throughput
-
-**Security Implementation**
-- HMAC-SHA256 webhook signature validation ensuring cryptographically verified Meta WhatsApp API messages
-- JWT authentication with role-based access control (RBAC) and 24h token expiry
-- Dual-layer rate limiting: 10 verifications/hour per phone, 100 requests/minute per IP preventing brute force
-- Cryptographically secure code generation excluding ambiguous characters (O,0,I,1) enabling 34B+ unique combinations
-
-**API Engineering**
-- Sub-24ms p95 response times validated through k6 load testing at 200 concurrent users
-- JSONB metadata storage capturing complete audit trails with full verification traceability
-- Field-selective database queries minimizing payload overhead
-
-**Core Features**
-- Real-time React admin dashboard with live verification metrics and batch analytics
-- Batch management system allowing instant blocking of entire production batches
-- QR code generation for printable product stickers with embedded verification URLs
-- Multi-format export (CSV/Excel) with embedded QR codes for distribution
-- Complete audit logging tracking every verification attempt with phone, timestamp, and result
-
-Built with **Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud API**
-
-</div>
+**Built with:** Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud API
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link">
@@ -176,34 +154,13 @@ Built with **Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud
 
 ### TaskFlow — Project Management Platform
 
-<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
+A project management platform for organizing team workflows, tracking progress, and managing tasks through interactive Kanban boards.
 
-**High-performance project management platform** engineered for sub-50ms API response times at 1000+ task scale.
+- Engineered for **sub-50ms API response times** while handling boards with more than 1,000 tasks.
+- Reduced database round-trips by **60%** using MongoDB aggregation pipelines and eliminated N+1 query patterns.
+- Combined tiered Redis caching, targeted cache invalidation, and selective projections to reduce payload sizes by **70%**.
 
-**Database Optimization**
-- Compound MongoDB indexes (project+status, column+board, tasks) achieving O(log n) query complexity
-- Aggregation pipelines for analytics — eliminated N+1 queries, reduced DB round-trips by 60%
-- Strategic schema design with embedded task references for O(1) board loads
-
-**Caching Architecture**
-- Tiered Redis TTL strategy: 15-min static boards, 2-min volatile tasks, 2-min dashboard stats
-- Intelligent cache invalidation on mutations + warming on project creation
-- Stale-while-revalidate pattern — instant UI with background data refresh
-
-**API Engineering**
-- Single-purpose endpoints: `/dashboard/stats` aggregates 4 collections server-side vs 2 separate calls
-- Field-selective MongoDB projections reducing payload sizes by 70%
-- Request timing middleware for production bottleneck detection (>500ms alerts)
-
-**Core Features**
-- Secure JWT authentication with email verification and password recovery
-- Interactive Kanban workflow with drag-and-drop across customizable columns
-- Real-time task assignment with priority levels, due dates, and progress tracking
-- Analytics dashboard with visual progress indicators and activity feeds
-
-Built with **Next.js · TypeScript · MongoDB · Redis · React Query**
-
-</div>
+**Built with:** Next.js · TypeScript · MongoDB · Redis · React Query
 
 <p align="right">
   <a href="https://taskflow-zeta-dusky.vercel.app/">
@@ -213,64 +170,19 @@ Built with **Next.js · TypeScript · MongoDB · Redis · React Query**
 
 ### AI-Powered Fitness & Wellness Platform
 
-<div style="border: 1px solid #334155; border-radius: 12px; padding: 20px; margin: 16px 0; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
+A health tracking platform that combines workout, nutrition, and mental wellness data to deliver personalized recommendations.
 
-**Full-stack health tracking ecosystem** combining workout analytics, nutrition monitoring, and mental health assessment with real-time ML-powered recommendations serving personalized insights with sub-500ms response times.
+- Built three confidence-scored Random Forest models trained on more than **30,000 synthetic samples**, with rule-based fallbacks for uncertain predictions.
+- Reduced recommendation latency by approximately **350ms** by batching and parallelizing three recommendation streams.
+- Integrated Google Fit and Fitbit data with automatic OAuth token refresh, real-time activity feeds, and personalized trend analysis.
 
-**Microservices Architecture**
-- 3-tier decoupled design: React frontend → Node.js API gateway → Python Flask ML service
-- Socket.IO WebSocket clusters enabling real-time gamification updates and live activity feeds
-- Horizontal scaling support with stateless JWT authentication and isolated service deployment
-
-**Machine Learning Engine**
-- 3 production-grade RandomForest classifiers (scikit-learn) trained on 30K+ synthetic samples
-- Feature engineering with one-hot encoding for categorical data (moods, activity types)
-- Confidence-scored predictions with graceful fallback to rule-based logic when ML uncertainty > 0.4
-- Time-weighted trend analysis using exponential decay (recent check-ins weighted 2-3x higher)
-- Volatility detection algorithms classifying patterns as consistent/moderate/fluctuating
-
-**Performance Engineering**
-- HTTP keep-alive connection pooling reducing TCP handshake overhead by ~65% for ML service calls
-- Multi-layer caching strategy: Flask bounded LRU (100 entries, 5-min TTL) + Node.js LRU (4-min TTL) + client SessionStorage
-- Batch API endpoint (`/api/ai/all`) parallelizing 3 recommendation streams into single request (~350ms latency reduction)
-- Async model loading eliminating cold-start timeouts on Render free tier (server ready in <2s vs 8s)
-- Optimized cache key bucketing improving hit rates from ~10% to ~70% through value quantization
-
-**Database Architecture**
-- MongoDB with strategic compound indexing (userId + date) achieving O(log n) query complexity for time-series health logs
-- 5 specialized schemas: User (embedded device tokens), Workout, Nutrition, MentalHealth, Gamification
-- Atomic streak calculations with concurrent update protection via Mongoose optimistic locking
-
-**Security Implementation**
-- JWT access/refresh token rotation with bcryptjs password hashing (salt rounds: 10)
-- OAuth2 flows for Google Fit and Fitbit integrations with automatic token refresh
-- Express-rate-limit: 100 requests per 15-minute window with IP + userId dual key generation
-- CORS whitelist with origin validation and credential-safe cross-origin policies
-- Environment-based secrets management with render.yaml zero-config deployment
-
-**Device Integration**
-- Google Fit API: calories.expended + heart_rate.bpm real-time synchronization
-- Fitbit Web API: activities + heart rate intraday data with automatic reconnection
-- Token refresh handling with automatic disconnect on persistent auth failures
-
-**Core Features**
-- **Workout Intelligence**: Heart rate zone analysis (Tanaka formula), ML-generated intensity recommendations, weekly volume tracking
-- **Nutrition Analytics**: Macronutrient ratio analysis, meal timing pattern detection, age/gender-specific caloric guidance
-- **Mental Health Insights**: Mood trend analysis with volatility tracking, stress level progression monitoring, personalized coping strategies
-- **Gamification Engine**: Point accrual across 3 categories, streak maintenance with anti-cheat validation, achievement unlock system with confetti rewards
-- **Real-time Dashboard**: Chart.js visualizations with ApexCharts integration, live notification feed via Socket.IO rooms
-
-Built with **React 18 · Node.js · Express · MongoDB · Python Flask · scikit-learn · Socket.IO · Docker-ready**
-
-</div>
+**Built with:** React · Node.js · Express · MongoDB · Python Flask · scikit-learn · Socket.IO
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1X5lo3IBWAwOMf14NYUZI8D0OR4TGH0tR/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-</div>
 
 ---
 
