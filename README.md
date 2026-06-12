@@ -206,6 +206,12 @@ A health tracking platform that combines workout, nutrition, and mental wellness
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/CamlineKe">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamlineKe&bg_color=0f172a&color=94a3b8&title_color=0d9488&line=0d9488&point=ffffff&area=true&area_color=0d9488&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="CamlineKe recent GitHub contribution activity" />
+  </a>
+</p>
+
 ---
 
 ## Credibility
