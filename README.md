@@ -65,16 +65,16 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 **Current focus:** Production readiness · Reliable M-Pesa reconciliation · Background-job automation · Operational monitoring
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link" title="View RMS Admin demo">
+  <a href="https://drive.google.com/file/d/1DOFbN0GnWjiN7cANHy4w8kvCmp8-dZJW/view?usp=drive_link  " title="View RMS Admin demo">
     <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
   </a>
-  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link" title="View RMS Landlord demo">
+  <a href="https://drive.google.com/file/d/1xkMx80WlkMuEGq2fB5vwMTZ2rtjG7HIm/view?usp=drive_link " title="View RMS Landlord demo">
     <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
   </a>
-  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link" title="View RMS Tenant demo">
+  <a href="https://drive.google.com/file/d/1E3_p-YuJOxaewBxg2JLNz0qKb6U0784F/view?usp=drive_link " title="View RMS Tenant demo">
     <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
   </a>
-  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link" title="View RMS Caretaker demo">
+  <a href="https://drive.google.com/file/d/1LLT6Y3GvmBj_yhgV0ZEiarbOJQkT5nwT/view?usp=drive_link" title="View RMS Caretaker demo">
     <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Caretaker demo" />
   </a>
 </p>
@@ -141,16 +141,16 @@ A multi-tenant rental management platform designed for the African property mark
 **Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · M-Pesa Daraja API
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1ticT-hGU5UEKn0lE6Kk-SMG9WyVzSUgz/view?usp=drive_link" title="View RMS Admin demo">
+  <a href="https://drive.google.com/file/d/1DOFbN0GnWjiN7cANHy4w8kvCmp8-dZJW/view?usp=drive_link" title="View RMS Admin demo">
     <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
   </a>
-  <a href="https://drive.google.com/file/d/1_Rk0lafI2vaubzWKSy1uujTF4xK4Ln4V/view?usp=drive_link" title="View RMS Landlord demo">
+  <a href="https://drive.google.com/file/d/1xkMx80WlkMuEGq2fB5vwMTZ2rtjG7HIm/view?usp=drive_link" title="View RMS Landlord demo">
     <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
   </a>
-  <a href="https://drive.google.com/file/d/18SvSt1d1ITM-ZQnVqhtN4toPGaJYvdi8/view?usp=drive_link" title="View RMS Tenant demo">
+  <a href="https://drive.google.com/file/d/1E3_p-YuJOxaewBxg2JLNz0qKb6U0784F/view?usp=drive_link " title="View RMS Tenant demo">
     <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
   </a>
-  <a href="https://drive.google.com/file/d/13TqH-tzW1pVzIgYbnbSNHq0cpHk8yOjW/view?usp=drive_link" title="View RMS Caretaker demo">
+  <a href="https://drive.google.com/file/d/1LLT6Y3GvmBj_yhgV0ZEiarbOJQkT5nwT/view?usp=drive_link" title="View RMS Caretaker demo">
     <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Caretaker demo" />
   </a>
 </p>
@@ -166,7 +166,7 @@ A secure verification platform that helps brands and consumers identify counterf
 **Built with:** Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud API
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1BdUkJHmL-Ukdo0jpJoPSkKfXYp_lkJei/view?usp=drive_link" title="View WhatsApp Product Verification demo">
+  <a href="https://drive.google.com/file/d/1kN6E4lQUvSvTXl7VgjtQydb0BUZK9OMs/view?usp=drive_link" title="View WhatsApp Product Verification demo">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View WhatsApp Product Verification demo" />
   </a>
 </p>
