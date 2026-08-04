@@ -1,11 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Moses%20Maina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems-Driven%20Software%20Engineer%20%7C%20Custom%20Software%20Builder&descAlignY=55&descSize=18" alt="Moses Maina — Systems-Driven Software Engineer and Custom Software Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Moses%20Maina&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems-Driven%20Software%20Engineer%20%7C%20Custom%20Software%20Builder&descAlignY=58&descSize=20" alt="Moses Maina — Systems-Driven Software Engineer and Custom Software Builder" />
 </p>
 
 <!-- Dynamic Capabilities -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Designing%20secure%2C%20scalable%20software%20systems;Building%20reliable%20products%20from%20idea%20to%20production;Automating%20complex%20business%20workflows;Integrating%20payments%2C%20APIs%2C%20and%20intelligent%20systems&center=true&width=700&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Software engineering capabilities" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Designing%20secure%2C%20scalable%20software%20systems;Building%20reliable%20products%20from%20idea%20to%20production;Automating%20complex%20business%20workflows;Integrating%20payments%2C%20APIs%2C%20and%20intelligent%20systems&center=true&width=600&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Software engineering capabilities" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I'm a systems-driven software engineer who turns complex ideas, business processes, and operational challenges into reliable custom software. I work across the stack with tools such as Node.js, React, and PostgreSQL, but no stack defines me.
 
@@ -41,7 +41,7 @@ I'm interested in projects and teams that value system design, long-term scalabi
 
 ---
 
-## What I Do
+<h2 align="center">What I Do</h2>
 
 I design and build custom software that transforms complex ideas, business processes, and operational challenges into reliable digital systems.
 
@@ -56,7 +56,7 @@ I design and build custom software that transforms complex ideas, business proce
 
 ---
 
-## Now Building
+<h2 align="center">Now Building</h2>
 
 ### Rental Management System — PropertyTech SaaS Platform
 
@@ -65,10 +65,10 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 **Current focus:** Production readiness · Reliable M-Pesa reconciliation · Background-job automation · Operational monitoring
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1vQkj6HdHQXVyt0Cn9McN_gwkQ01NUPmT/view?usp=drive_link " title="View RMS Admin demo">
+  <a href="https://drive.google.com/file/d/1vQkj6HdHQXVyt0Cn9McN_gwkQ01NUPmT/view?usp=drive_link" title="View RMS Admin demo">
     <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
   </a>
-  <a href="https://drive.google.com/file/d/1tyP9-ITQJWi44fHPQATA_t1kcUpM2Hmi/view?usp=drive_link " title="View RMS Landlord demo">
+  <a href="https://drive.google.com/file/d/1tyP9-ITQJWi44fHPQATA_t1kcUpM2Hmi/view?usp=drive_link" title="View RMS Landlord demo">
     <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
   </a>
   <a href="https://drive.google.com/file/d/1nriaaCbh1VZjzqmMHOISmeayJXjALIWs/view?usp=drive_link" title="View RMS Tenant demo">
@@ -81,7 +81,7 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 ---
 
-## Open To
+<h2 align="center">Open To</h2>
 
 - **Full-time and graduate engineering opportunities** where I can contribute across backend, full-stack, custom software, and product engineering.
 - **Freelance projects** helping businesses transform operational challenges and product ideas into reliable digital systems.
@@ -92,7 +92,7 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 ---
 
-## Engineering Philosophy
+<h2 align="center">Engineering Philosophy</h2>
 
 | Principle | How I Apply It |
 |:----------|:---------------|
@@ -107,7 +107,7 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev" title="View Skill Icons">
@@ -127,7 +127,7 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 ### Rental Management System — PropertyTech SaaS Platform
 
@@ -141,13 +141,13 @@ A multi-tenant rental management platform designed for the African property mark
 **Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · M-Pesa Daraja API
 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1vQkj6HdHQXVyt0Cn9McN_gwkQ01NUPmT/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1vQkj6HdHQXVyt0Cn9McN_gwkQ01NUPmT/view?usp=drive_link" title="View RMS Admin demo">
     <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
   </a>
   <a href="https://drive.google.com/file/d/1tyP9-ITQJWi44fHPQATA_t1kcUpM2Hmi/view?usp=drive_link" title="View RMS Landlord demo">
     <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
   </a>
-  <a href="https://drive.google.com/file/d/1nriaaCbh1VZjzqmMHOISmeayJXjALIWs/view?usp=drive_link " title="View RMS Tenant demo">
+  <a href="https://drive.google.com/file/d/1nriaaCbh1VZjzqmMHOISmeayJXjALIWs/view?usp=drive_link" title="View RMS Tenant demo">
     <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
   </a>
   <a href="https://drive.google.com/file/d/13jv4YrgeIuqRz8JzQdQTpclrVQ9M0LSZ/view?usp=drive_link" title="View RMS Caretaker demo">
@@ -205,13 +205,13 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
-        <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB" alt="CamlineKe GitHub statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB&text_color=94a3b8" alt="CamlineKe GitHub statistics" />
       </a>
     </td>
     <td>
@@ -230,7 +230,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 ---
 
-## Credibility
+<h2 align="center">Credibility</h2>
 
 | Area | Evidence |
 |:-----|:---------|
@@ -242,7 +242,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 ---
 
-## Beyond Code
+<h2 align="center">Beyond Code</h2>
 
 - I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
 - I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
@@ -251,7 +251,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 ---
 
-## Let's Build Something
+<h2 align="center">Let's Build Something</h2>
 
 <p align="center">
   <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
