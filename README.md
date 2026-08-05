@@ -58,7 +58,7 @@ I design and build custom software that transforms complex ideas, business proce
 
 <h2 align="center">Now Building</h2>
 
-### Rental Management System — PropertyTech SaaS Platform
+### Rental Management System - PropertyTech SaaS Platform
 
 Building a multi-tenant rental management platform that helps landlords, caretakers, tenants, and platform administrators manage properties, rent payments, maintenance, and financial operations.
 
@@ -129,7 +129,7 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 <h2 align="center">Featured Projects</h2>
 
-### Rental Management System — PropertyTech SaaS Platform
+### Rental Management System - PropertyTech SaaS Platform
 
 A multi-tenant rental management platform designed for the African property market, connecting landlords, caretakers, tenants, and platform administrators through role-specific workflows.
 
@@ -155,7 +155,7 @@ A multi-tenant rental management platform designed for the African property mark
   </a>
 </p>
 
-### WhatsApp Product Verification — Anti-Counterfeiting Platform
+### WhatsApp Product Verification - Anti-Counterfeiting Platform
 
 A secure verification platform that helps brands and consumers identify counterfeit products through WhatsApp.
 
@@ -171,7 +171,7 @@ A secure verification platform that helps brands and consumers identify counterf
   </a>
 </p>
 
-### TaskFlow — Project Management Platform
+### TaskFlow - Project Management Platform
 
 A project management platform for organizing team workflows, tracking progress, and managing tasks through interactive Kanban boards.
 
