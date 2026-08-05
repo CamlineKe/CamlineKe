@@ -111,19 +111,19 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 <p align="center">
   <a href="https://skillicons.dev" title="View Skill Icons">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,materialui,redux,figma,nodejs,express,fastapi,python,flask,postgres,mongodb,prisma,redis,supabase,docker,nginx,vercel,aws,githubactions,git,github,linux,bash,vite,jest,sklearn,postman,prometheus&perline=9" alt="Technology stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,materialui,redux,figma,nodejs,express,fastapi,python,flask,postgres,mongodb,prisma,redis,supabase,docker,nginx,vercel,aws,githubactions,git,github,linux,bash,vite,jest,sklearn,postman,prometheus,laravel,mysql,socketio,vue,framer,aiven,pnpm,vitest,html,css,oauth,fitbit&perline=9" alt="Technology stack" />
   </a>
 </p>
 
 ### Stack Breakdown
-- **Frontend:** Next.js, React, TypeScript, Vite, Flutter, React Router, React Query, React Hook Form
+- **Frontend:** Next.js, React, Vue, TypeScript, Vite, Flutter, React Router, React Query, React Hook Form, Framer Motion, HTML, CSS
 - **UI & Design:** Tailwind CSS, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
-- **Backend & APIs:** Node.js, Express, FastAPI, Python, TypeScript, Prisma, BullMQ, Axios, Winston, Pino, Zod, NextAuth
-- **Database & Persistence:** PostgreSQL, MongoDB, Redis, Supabase, Upstash, Prisma, node-pg, connection pooling
+- **Backend & APIs:** Node.js, Express, Laravel, FastAPI, Python, TypeScript, Prisma, BullMQ, Socket.IO, Axios, Winston, Pino, Zod, NextAuth
+- **Database & Persistence:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Upstash, Prisma, node-pg, connection pooling
 - **Security & Auth:** JWT, RS256, Bcrypt, Helmet, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
-- **Testing & Observability:** Jest, Supertest, React Testing Library, k6, Prometheus
-- **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, Vercel, Render, Nginx, ngrok, Turborepo
-- **Integrations:** M-Pesa Daraja API, Africa's Talking, Cloudinary, Meta Cloud API, OpenAI, Webhooks
+- **Testing & Observability:** Jest, Vitest, Supertest, React Testing Library, k6, Prometheus
+- **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, pnpm, Vercel, Render, Aiven, Nginx, ngrok, Turborepo
+- **Integrations:** M-Pesa Daraja API, Africa's Talking, Cloudinary, Meta Cloud API, OpenAI, OAuth 2.0, Fitbit, Webhooks
 
 ---
 
