@@ -91,11 +91,11 @@ Building a multi-tenant rental management platform that helps landlords, caretak
   <tr>
     <td width="50%" valign="top">
       <h4>Backend & Distributed Systems</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,laravel,typescript&perline=6" alt="Backend & Systems" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,python,laravel,typescript&perline=8" alt="Backend & Systems" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>Frontend & Mobile</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,vue,typescript,vite,flutter,tailwind,figma&perline=6" alt="Frontend & Mobile" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,nextjs,react,vue,typescript,vite,flutter,tailwind&perline=8" alt="Frontend & Mobile" /></a>
     </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ A secure verification platform that helps brands and consumers identify counterf
 
 **Built with:** Node.js · TypeScript · PostgreSQL · React · Meta WhatsApp Cloud API
 
-<p align="right">
+<p>
   <a href="https://drive.google.com/file/d/1_ZWE9rzfNjEr_7ETKJySSls2yZEnjVwC/view?usp=drive_link" title="View WhatsApp Product Verification demo">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View WhatsApp Product Verification demo" />
   </a>
@@ -160,7 +160,7 @@ A project management platform for organizing team workflows, tracking progress, 
 
 **Built with:** Next.js · TypeScript · MongoDB · Redis · React Query
 
-<p align="right">
+<p>
   <a href="https://taskflow-zeta-dusky.vercel.app/" title="View TaskFlow live demo">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View TaskFlow live demo" />
   </a>
@@ -176,7 +176,7 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 **Built with:** React · Node.js · Express · MongoDB · Python Flask · scikit-learn · Socket.IO
 
-<p align="right">
+<p>
   <a href="https://drive.google.com/file/d/1X5lo3IBWAwOMf14NYUZI8D0OR4TGH0tR/view?usp=drive_link" title="View AI-Powered Fitness and Wellness demo">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View AI-Powered Fitness and Wellness demo" />
   </a>
@@ -186,24 +186,12 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 <h2 align="center">GitHub Stats</h2>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
-        <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB&text_color=94a3b8" alt="CamlineKe GitHub statistics" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
-        <img src="https://streak-stats.demolab.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=ffffff&dates=94a3b8" alt="CamlineKe GitHub contribution streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamlineKe&bg_color=0f172a&color=94a3b8&title_color=2563EB&line=2563EB&point=ffffff&area=true&area_color=2563EB&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="CamlineKe recent GitHub contribution activity" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CamlineKe&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB&text_color=94a3b8" alt="CamlineKe GitHub statistics" />
+  </a>
+  <a href="https://github.com/CamlineKe" title="View CamlineKe on GitHub">
+    <img src="https://streak-stats.demolab.com/?user=CamlineKe&theme=dark&hide_border=true&background=0f172a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=ffffff&dates=94a3b8" alt="CamlineKe GitHub contribution streak" />
   </a>
 </p>
 
