@@ -29,15 +29,13 @@
 
 <h2 align="center">About Me</h2>
 
-I'm a systems-driven software engineer who turns complex ideas, business processes, and operational challenges into reliable custom software. I work across the stack with tools such as Node.js, React, and PostgreSQL, but no stack defines me.
+<p align="center">
+  <em>Systems-driven software engineer building reliable business platforms, resilient APIs, and production digital products.</em>
+</p>
 
-My workflow centers on systems thinking, clear abstractions, and deliberate tradeoffs. I care about reliability, performance, cost, and long-term maintainability.
-
-AI is core to how I work, not as a shortcut, but as a thinking partner. Through agentic coding, I challenge assumptions, validate decisions, and prototype deliberately. Strong judgment combined with effective AI collaboration improves both delivery speed and decision quality.
-
-I own what I build, from architecture to production. I mentor, review thoughtfully, and communicate tradeoffs clearly, because clarity scales better than cleverness.
-
-I'm interested in projects and teams that value system design, long-term scalability, and deliberate engineering over rushed solutions.
+| Architecture & Systems | Production Reliability | Agentic AI Engineering |
+|:---|:---|:---|
+| • Clear abstractions & domain modeling<br>• Scalable modular architectures<br>• Deliberate engineering tradeoffs | • Concurrency locking & transactional integrity<br>• Measured latency budgets (sub-24ms p95)<br>• Automated testing & resilient recovery | • Deep reasoning & strategic architecture<br>• Rapid prototyping with validation<br>• Accelerated delivery with strong judgment |
 
 ---
 
@@ -62,22 +60,7 @@ I design and build custom software that transforms complex ideas, business proce
 
 Building a multi-tenant rental management platform that helps landlords, caretakers, tenants, and platform administrators manage properties, rent payments, maintenance, and financial operations.
 
-**Current focus:** Production readiness · Reliable M-Pesa reconciliation · Background-job automation · Operational monitoring
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1vQkj6HdHQXVyt0Cn9McN_gwkQ01NUPmT/view?usp=drive_link" title="View RMS Admin demo">
-    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
-  </a>
-  <a href="https://drive.google.com/file/d/1tyP9-ITQJWi44fHPQATA_t1kcUpM2Hmi/view?usp=drive_link" title="View RMS Landlord demo">
-    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
-  </a>
-  <a href="https://drive.google.com/file/d/1nriaaCbh1VZjzqmMHOISmeayJXjALIWs/view?usp=drive_link" title="View RMS Tenant demo">
-    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
-  </a>
-  <a href="https://drive.google.com/file/d/13jv4YrgeIuqRz8JzQdQTpclrVQ9M0LSZ/view?usp=drive_link" title="View RMS Caretaker demo">
-    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Caretaker demo" />
-  </a>
-</p>
+> **Active Sprint Focus:** Production hardening · Automated M-Pesa reconciliation · Background BullMQ workers · End-to-end operational monitoring
 
 ---
 
@@ -109,21 +92,28 @@ Building a multi-tenant rental management platform that helps landlords, caretak
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev" title="View Skill Icons">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,materialui,redux,figma,nodejs,express,fastapi,python,flask,postgres,mongodb,prisma,redis,supabase,docker,nginx,vercel,aws,githubactions,git,github,linux,bash,vite,jest,sklearn,postman,prometheus,laravel,mysql,socketio,vue,framer,aiven,pnpm,vitest,html,css,oauth,fitbit&perline=9" alt="Technology stack" />
-  </a>
-</p>
-
-### Stack Breakdown
-- **Frontend:** Next.js, React, Vue, TypeScript, Vite, Flutter, React Router, React Query, React Hook Form, Framer Motion, HTML, CSS
-- **UI & Design:** Tailwind CSS, Material-UI, Shadcn/ui, Lucide React, Recharts, Figma
-- **Backend & APIs:** Node.js, Express, Laravel, FastAPI, Python, TypeScript, Prisma, BullMQ, Socket.IO, Axios, Winston, Pino, Zod, NextAuth
-- **Database & Persistence:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Upstash, Prisma, node-pg, connection pooling
-- **Security & Auth:** JWT, RS256, Bcrypt, Helmet, CORS, Rate Limiter Flexible, HMAC-SHA256 validation, input sanitization, XSS prevention, role-based access control
-- **Testing & Observability:** Jest, Vitest, Supertest, React Testing Library, k6, Prometheus
-- **DevOps & Deployment:** Docker, Git, GitHub, GitHub Actions, pnpm, Vercel, Render, Aiven, Nginx, ngrok, Turborepo
-- **Integrations:** M-Pesa Daraja API, Africa's Talking, Cloudinary, Meta Cloud API, OpenAI, OAuth 2.0, Fitbit, Webhooks
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend & Distributed Systems</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,laravel,typescript&perline=6" alt="Backend & Systems" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend & Mobile</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,vue,typescript,vite,flutter,tailwind,figma&perline=6" alt="Frontend & Mobile" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Databases & Caching</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma&perline=6" alt="Databases & Caching" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>DevOps, Cloud & Testing</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,bash,jest,vitest,postman&perline=6" alt="DevOps, Cloud & Testing" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -140,20 +130,14 @@ A multi-tenant rental management platform designed for the African property mark
 
 **Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ · M-Pesa Daraja API
 
-<p align="right">
-  <a href="https://drive.google.com/file/d/1vQkj6HdHQXVyt0Cn9McN_gwkQ01NUPmT/view?usp=drive_link" title="View RMS Admin demo">
-    <img src="https://img.shields.io/badge/Admin_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Admin demo" />
-  </a>
-  <a href="https://drive.google.com/file/d/1tyP9-ITQJWi44fHPQATA_t1kcUpM2Hmi/view?usp=drive_link" title="View RMS Landlord demo">
-    <img src="https://img.shields.io/badge/Landlord_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Landlord demo" />
-  </a>
-  <a href="https://drive.google.com/file/d/1nriaaCbh1VZjzqmMHOISmeayJXjALIWs/view?usp=drive_link" title="View RMS Tenant demo">
-    <img src="https://img.shields.io/badge/Tenant_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Tenant demo" />
-  </a>
-  <a href="https://drive.google.com/file/d/13jv4YrgeIuqRz8JzQdQTpclrVQ9M0LSZ/view?usp=drive_link" title="View RMS Caretaker demo">
-    <img src="https://img.shields.io/badge/Caretaker_Demo-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="View RMS Caretaker demo" />
-  </a>
-</p>
+#### Role Workflows & Interactive Demos
+
+| Role | Operational Scope | Interactive Video Walkthrough |
+|:---|:---|:---:|
+| 🏢 **Admin Portal** | System overview, multi-property oversight, audit trails, and platform configurations | [**Watch Admin Demo →**](https://drive.google.com/file/d/1fskJSbQ9XA6Mpbzn7TlM145S015qdGsG/view?usp=drive_link)<br><a href="https://drive.google.com/file/d/1fskJSbQ9XA6Mpbzn7TlM145S015qdGsG/view?usp=drive_link"><img src="https://img.shields.io/badge/Admin_Walkthrough-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Admin Demo" /></a> |
+| 🏠 **Landlord Portal** | Rental income dashboards, unit allocations, expense tracking, and financial statements | [**Watch Landlord Demo →**](https://drive.google.com/file/d/1fypTiD6LowzUKntncmBzoWhdfKU_kG4c/view?usp=drive_link)<br><a href="https://drive.google.com/file/d/1fypTiD6LowzUKntncmBzoWhdfKU_kG4c/view?usp=drive_link"><img src="https://img.shields.io/badge/Landlord_Walkthrough-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Landlord Demo" /></a> |
+| 👤 **Tenant Portal** | Rent payments via M-Pesa, instalment plans, payment history, and maintenance requests | [**Watch Tenant Demo →**](https://drive.google.com/file/d/1hU3etQncAG2cUebQtONILXqNYKXO-RQn/view?usp=drive_link)<br><a href="https://drive.google.com/file/d/1hU3etQncAG2cUebQtONILXqNYKXO-RQn/view?usp=drive_link"><img src="https://img.shields.io/badge/Tenant_Walkthrough-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Tenant Demo" /></a> |
+| 🔑 **Caretaker Portal** | Unit inspection logs, tenant check-ins, maintenance dispatch, and meter readings | [**Watch Caretaker Demo →**](https://drive.google.com/file/d/1jXYEYVjkSEw1VPV8YbtpNECEh1MASsif/view?usp=drive_link)<br><a href="https://drive.google.com/file/d/1jXYEYVjkSEw1VPV8YbtpNECEh1MASsif/view?usp=drive_link"><img src="https://img.shields.io/badge/Caretaker_Walkthrough-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Caretaker Demo" /></a> |
 
 ### WhatsApp Product Verification - Anti-Counterfeiting Platform
 
