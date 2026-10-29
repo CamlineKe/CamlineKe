@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+
+    <!-- Top Accent Gradient -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color" values="#2563EB;#38BDF8;#6366F1;#2563EB" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#6366F1;#2563EB;#38BDF8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#6366F1">
+        <animate attributeName="stop-color" values="#6366F1;#2563EB;#38BDF8;#6366F1" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Ambient Glow Filters -->
+    <radialGradient id="centerGlow" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.22">
+        <animate attributeName="stop-opacity" values="0.22;0.35;0.22" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="leftGlow" cx="10%" cy="50%" r="35%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.15">
+        <animate attributeName="stop-opacity" values="0.15;0.28;0.15" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="rightGlow" cx="90%" cy="50%" r="35%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.15">
+        <animate attributeName="stop-opacity" values="0.15;0.28;0.15" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="gridPattern" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.55" />
+    </pattern>
+
+    <style>
+      .name-title {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+        fill: #ffffff;
+        letter-spacing: -0.5px;
+        text-anchor: middle;
+      }
+      .eyebrow {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        fill: #60a5fa;
+        letter-spacing: 2.8px;
+        text-transform: uppercase;
+        text-anchor: middle;
+      }
+      .tagline {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        fill: #94a3b8;
+        letter-spacing: 0.4px;
+        text-anchor: middle;
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.35; }
+        50% { opacity: 0.85; }
+      }
+      .glow-node {
+        animation: pulseGlow 4s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Base -->
+  <rect width="900" height="160" rx="12" fill="url(#bgGradient)" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- Grid Texture -->
+  <rect width="900" height="160" rx="12" fill="url(#gridPattern)" />
+
+  <!-- Ambient Light Fields -->
+  <rect width="900" height="160" rx="12" fill="url(#centerGlow)" />
+  <rect width="900" height="160" rx="12" fill="url(#leftGlow)" />
+  <rect width="900" height="160" rx="12" fill="url(#rightGlow)" />
+
+  <!-- Top Glowing Accent Border -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accentGradient)" />
+
+  <!-- Symmetrical Circuit Accents (Left) -->
+  <g opacity="0.6">
+    <path d="M 55 60 L 105 60 L 130 35 L 180 35" stroke="#334155" stroke-width="1.5" fill="none" />
+    <path d="M 40 120 L 90 120 L 115 95 L 155 95" stroke="#334155" stroke-width="1.5" fill="none" />
+    <circle cx="55" cy="60" r="3.5" fill="#38bdf8" class="glow-node" />
+    <circle cx="180" cy="35" r="2.5" fill="#60a5fa" />
+    <circle cx="40" cy="120" r="3.5" fill="#6366f1" class="glow-node" />
+    <circle cx="155" cy="95" r="2.5" fill="#818cf8" />
+  </g>
+
+  <!-- Symmetrical Circuit Accents (Right) -->
+  <g opacity="0.6">
+    <path d="M 845 60 L 795 60 L 770 35 L 720 35" stroke="#334155" stroke-width="1.5" fill="none" />
+    <path d="M 860 120 L 810 120 L 785 95 L 745 95" stroke="#334155" stroke-width="1.5" fill="none" />
+    <circle cx="845" cy="60" r="3.5" fill="#38bdf8" class="glow-node" />
+    <circle cx="720" cy="35" r="2.5" fill="#60a5fa" />
+    <circle cx="860" cy="120" r="3.5" fill="#6366f1" class="glow-node" />
+    <circle cx="745" cy="95" r="2.5" fill="#818cf8" />
+  </g>
+
+  <!-- Centered Content Group -->
+  <g>
+    <!-- Eyebrow: Canonical Title -->
+    <text x="450" y="46" class="eyebrow">Systems-Driven Software Engineer</text>
+
+    <!-- Name -->
+    <text x="450" y="90" class="name-title">Moses Maina</text>
+
+    <!-- Tagline: Curiosity, Products, Creative Minds -->
+    <text x="450" y="126" class="tagline">Exploring Systems • Building Products • Connecting with Curious Minds</text>
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="100%" height="36" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0b1120" />
+    </linearGradient>
+
+    <!-- Top Accent Gradient (matches Header) -->
+    <linearGradient id="footerAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color" values="#2563EB;#38BDF8;#6366F1;#2563EB" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#6366F1;#2563EB;#38BDF8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#6366F1">
+        <animate attributeName="stop-color" values="#6366F1;#2563EB;#38BDF8;#6366F1" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="centerPulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25">
+        <animate attributeName="stop-opacity" values="0.25;0.45;0.25" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+
+    <style>
+      @keyframes pulseNode {
+        0%, 100% { opacity: 0.35; }
+        50% { opacity: 0.9; }
+      }
+      .node {
+        animation: pulseNode 4s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Base -->
+  <rect width="900" height="36" rx="8" fill="url(#footerBg)" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Ambient Center Field -->
+  <rect width="900" height="36" rx="8" fill="url(#centerPulse)" />
+
+  <!-- Top Accent Border -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#footerAccent)" />
+
+  <!-- Symmetrical Circuit Accents (Left) -->
+  <g opacity="0.6">
+    <path d="M 50 18 L 120 18 L 140 10 L 180 10" stroke="#334155" stroke-width="1.2" fill="none" />
+    <circle cx="50" cy="18" r="2.5" fill="#38bdf8" class="node" />
+    <circle cx="180" cy="10" r="2" fill="#60a5fa" />
+  </g>
+
+  <!-- Center Decorative Node -->
+  <g opacity="0.7">
+    <circle cx="450" cy="18" r="2.5" fill="#38bdf8" class="node" />
+    <line x1="410" y1="18" x2="440" y2="18" stroke="#334155" stroke-width="1" />
+    <line x1="460" y1="18" x2="490" y2="18" stroke="#334155" stroke-width="1" />
+  </g>
+
+  <!-- Symmetrical Circuit Accents (Right) -->
+  <g opacity="0.6">
+    <path d="M 850 18 L 780 18 L 760 10 L 720 10" stroke="#334155" stroke-width="1.2" fill="none" />
+    <circle cx="850" cy="18" r="2.5" fill="#38bdf8" class="node" />
+    <circle cx="720" cy="10" r="2" fill="#60a5fa" />
+  </g>
+</svg>

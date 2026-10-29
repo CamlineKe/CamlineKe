@@ -1,11 +1,6 @@
-<!-- Animated Header -->
+<!-- Self-Hosted Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Moses%20Maina&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems-Driven%20Software%20Engineer%20%7C%20Custom%20Software%20Builder&descAlignY=58&descSize=20" alt="Moses Maina — Systems-Driven Software Engineer and Custom Software Builder" />
-</p>
-
-<!-- Dynamic Capabilities -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Designing%20secure%2C%20scalable%20software%20systems;Building%20reliable%20products%20from%20idea%20to%20production;Automating%20complex%20business%20workflows;Integrating%20payments%2C%20APIs%2C%20and%20intelligent%20systems&center=true&width=600&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Software engineering capabilities" />
+  <img src="assets/header.svg" alt="Moses Maina - Systems-Driven Software Engineer and Custom Software Builder" width="100%" />
 </p>
 
 <p align="center">
@@ -235,25 +230,25 @@ A health tracking platform that combines workout, nutrition, and mental wellness
 
 ---
 
-<h2 align="center">Let's Build Something</h2>
+<h2 align="center">Let's Connect &amp; Collaborate</h2>
 
 <p align="center">
-  <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
+  Always open to conversations with curious builders, creative minds, and product teams.
 </p>
 
 <p align="center">
+  <a href="mailto:cmosesmaina@gmail.com" title="Email Moses Maina">
+    <img src="https://img.shields.io/badge/Email-cmosesmaina%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Moses Maina" />
+  </a>
   <a href="https://linkedin.com/in/moses-ongware" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Moses Maina on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Moses Maina on LinkedIn" />
   </a>
-  <a href="mailto:cmosesmaina@gmail.com" title="Start a conversation by email">
-    <img src="https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation with Moses Maina by email" />
+  <a href="https://moses-maina-portfolio.vercel.app/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Moses Maina's portfolio" />
   </a>
 </p>
 
+<!-- Self-Hosted Animated Footer Bracket -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CamlineKe&color=2563EB&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer&reversal=true" alt="" />
+  <img src="assets/footer.svg" alt="" width="100%" />
 </p>
